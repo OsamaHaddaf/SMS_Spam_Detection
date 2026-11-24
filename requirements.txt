@@ -1,0 +1,9 @@
+# Versions the notebook was tested with (Python 3.13, CPU only).
+# On Colab, the preinstalled versions are used and printed in the Setup cell.
+pandas==3.1.1
+numpy==2.5.5
+scikit-learn==1.9.1
+torch==2.15.0
+sentence-transformers==6.3.0
+transformers==5.24.0
+ipykernel==7.4.0

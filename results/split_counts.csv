@@ -1,0 +1,7 @@
+label,Not spam,Not spam,Spam,Spam,Total
+promo,other,promo word,other,promo word,
+split,,,,,
+train,3111,51,244,194,3600
+dev,668,11,50,44,773
+test,665,11,64,45,785
+Total,4444,73,358,283,5158

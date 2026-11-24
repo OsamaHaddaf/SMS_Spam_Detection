@@ -1,0 +1,3 @@
+,dev accuracy,dev macro F1,challenge accuracy,challenge macro F1,legit challenge msgs flagged Spam
+Method 1: TF-IDF + LR,0.9884,0.9724,1.0000,1.0000,0 of 11
+Method 2: MiniLM embeddings + LR,0.9935,0.9848,0.9818,0.9725,0 of 11

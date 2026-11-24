@@ -1,0 +1,5159 @@
+msg_id,label,promo,split
+0,Not spam,False,train
+1,Not spam,False,train
+2,Spam,True,train
+3,Not spam,False,train
+4,Not spam,False,dev
+5,Spam,False,train
+6,Not spam,False,dev
+7,Not spam,False,test
+8,Spam,True,train
+9,Spam,True,train
+10,Not spam,False,train
+11,Spam,True,test
+12,Spam,True,train
+13,Not spam,False,train
+14,Not spam,False,train
+15,Spam,False,train
+16,Not spam,False,dev
+17,Not spam,False,test
+18,Not spam,False,test
+19,Spam,False,dev
+20,Not spam,False,train
+21,Not spam,False,train
+22,Not spam,False,train
+23,Not spam,False,train
+24,Not spam,False,dev
+25,Not spam,False,train
+26,Not spam,False,train
+27,Not spam,False,train
+28,Not spam,False,train
+29,Not spam,False,train
+30,Not spam,False,train
+31,Not spam,False,train
+32,Not spam,False,dev
+33,Not spam,False,train
+34,Spam,False,train
+35,Not spam,False,train
+36,Not spam,False,dev
+37,Not spam,False,train
+38,Not spam,False,train
+39,Not spam,False,train
+40,Not spam,False,train
+41,Not spam,False,train
+42,Spam,True,train
+43,Not spam,False,train
+44,Not spam,False,test
+45,Not spam,False,train
+46,Not spam,False,dev
+47,Not spam,False,train
+48,Not spam,False,test
+49,Not spam,False,train
+50,Not spam,False,test
+51,Not spam,False,train
+52,Not spam,False,test
+53,Not spam,False,train
+54,Spam,False,train
+55,Not spam,False,train
+56,Spam,True,train
+57,Not spam,False,train
+58,Not spam,False,train
+59,Not spam,False,test
+60,Not spam,False,train
+61,Not spam,False,train
+62,Not spam,False,test
+63,Not spam,False,train
+64,Not spam,False,train
+65,Spam,True,train
+66,Not spam,False,train
+67,Spam,False,test
+68,Spam,False,train
+69,Not spam,False,test
+70,Not spam,False,test
+71,Not spam,False,train
+72,Not spam,False,train
+73,Not spam,False,train
+74,Not spam,False,train
+75,Not spam,True,train
+76,Not spam,False,dev
+77,Not spam,False,train
+78,Not spam,False,dev
+79,Not spam,False,train
+80,Not spam,False,test
+81,Not spam,False,train
+82,Not spam,False,test
+83,Not spam,False,train
+84,Not spam,False,dev
+85,Not spam,False,train
+86,Not spam,False,train
+87,Not spam,False,train
+88,Not spam,False,train
+89,Not spam,True,train
+90,Not spam,False,train
+91,Not spam,False,test
+92,Not spam,False,test
+93,Spam,True,train
+94,Not spam,False,train
+95,Spam,True,dev
+96,Not spam,False,dev
+97,Not spam,False,train
+98,Not spam,False,test
+99,Not spam,False,train
+100,Not spam,False,train
+101,Not spam,False,test
+102,Not spam,False,train
+104,Not spam,False,train
+105,Not spam,False,train
+106,Not spam,False,train
+107,Not spam,False,train
+108,Not spam,False,train
+109,Not spam,False,test
+110,Not spam,False,dev
+111,Not spam,False,train
+112,Not spam,False,test
+113,Not spam,False,train
+114,Spam,True,dev
+115,Not spam,False,test
+116,Not spam,False,train
+117,Spam,True,train
+118,Not spam,False,train
+119,Not spam,False,train
+120,Spam,False,train
+121,Spam,True,test
+122,Not spam,False,dev
+123,Spam,False,dev
+124,Not spam,False,train
+125,Not spam,False,train
+126,Not spam,False,train
+127,Not spam,False,train
+128,Not spam,False,train
+129,Not spam,False,train
+130,Not spam,False,train
+131,Not spam,False,dev
+132,Not spam,False,train
+133,Not spam,False,train
+134,Spam,True,train
+135,Spam,False,train
+136,Not spam,False,train
+137,Not spam,False,dev
+138,Not spam,False,train
+139,Spam,True,dev
+140,Not spam,False,test
+141,Not spam,False,train
+142,Not spam,False,dev
+143,Not spam,False,train
+144,Not spam,False,dev
+145,Not spam,False,dev
+146,Not spam,False,train
+147,Spam,False,test
+148,Not spam,False,test
+149,Not spam,False,train
+150,Not spam,False,train
+151,Not spam,False,train
+152,Not spam,False,train
+153,Not spam,False,train
+155,Not spam,False,dev
+156,Not spam,False,test
+157,Not spam,False,dev
+158,Not spam,False,train
+159,Spam,False,train
+160,Spam,True,train
+161,Not spam,False,test
+162,Not spam,False,test
+163,Not spam,False,dev
+164,Spam,False,test
+165,Spam,False,train
+166,Not spam,False,train
+167,Spam,True,train
+168,Not spam,False,test
+169,Not spam,False,train
+170,Not spam,False,train
+171,Not spam,False,train
+172,Not spam,True,train
+173,Not spam,False,dev
+174,Not spam,False,dev
+175,Not spam,False,train
+176,Not spam,False,train
+177,Not spam,False,train
+178,Not spam,True,train
+179,Not spam,False,train
+180,Not spam,True,train
+181,Not spam,True,test
+182,Not spam,False,test
+183,Not spam,False,train
+184,Not spam,False,train
+185,Not spam,False,dev
+186,Not spam,False,test
+187,Not spam,False,train
+188,Spam,True,train
+189,Not spam,False,train
+190,Not spam,False,train
+191,Spam,False,train
+192,Not spam,False,train
+193,Not spam,False,train
+194,Not spam,False,train
+195,Not spam,False,test
+196,Not spam,False,train
+197,Not spam,False,train
+198,Not spam,False,train
+199,Not spam,False,train
+200,Not spam,False,train
+201,Not spam,False,dev
+202,Not spam,False,dev
+203,Not spam,False,train
+204,Not spam,False,train
+205,Not spam,False,dev
+206,Not spam,False,dev
+208,Not spam,False,train
+209,Not spam,False,train
+210,Not spam,False,train
+211,Not spam,False,train
+212,Not spam,False,train
+213,Not spam,False,train
+214,Not spam,False,test
+215,Not spam,False,train
+216,Not spam,False,train
+217,Not spam,False,train
+218,Not spam,False,train
+219,Not spam,False,train
+220,Not spam,False,train
+221,Not spam,False,train
+222,Not spam,False,train
+224,Not spam,False,test
+225,Spam,False,train
+226,Not spam,False,train
+227,Spam,True,train
+228,Not spam,False,train
+229,Not spam,False,train
+230,Not spam,False,train
+231,Not spam,False,train
+232,Not spam,False,train
+233,Not spam,False,train
+234,Not spam,False,test
+235,Spam,False,train
+236,Not spam,False,test
+237,Not spam,False,train
+238,Not spam,False,train
+239,Not spam,True,train
+240,Spam,False,train
+241,Not spam,False,test
+242,Not spam,False,train
+243,Not spam,False,train
+244,Not spam,False,train
+245,Not spam,False,test
+246,Not spam,False,train
+247,Not spam,False,train
+248,Not spam,False,dev
+249,Not spam,False,dev
+250,Spam,True,dev
+251,Not spam,False,test
+252,Not spam,False,train
+253,Not spam,False,dev
+254,Not spam,False,train
+255,Not spam,False,dev
+256,Not spam,False,train
+257,Not spam,False,train
+258,Not spam,False,train
+259,Spam,True,train
+260,Not spam,False,train
+261,Not spam,False,train
+262,Not spam,False,train
+263,Not spam,False,train
+264,Spam,False,train
+265,Not spam,False,train
+266,Not spam,False,train
+267,Not spam,False,dev
+268,Spam,True,test
+269,Not spam,False,train
+270,Spam,True,train
+271,Not spam,False,train
+272,Not spam,False,train
+273,Spam,True,train
+274,Not spam,False,train
+275,Not spam,False,train
+276,Not spam,False,train
+277,Not spam,False,dev
+278,Not spam,False,dev
+279,Not spam,False,dev
+280,Not spam,False,train
+281,Not spam,False,train
+282,Not spam,False,test
+283,Not spam,False,train
+284,Not spam,False,train
+285,Not spam,False,train
+286,Not spam,False,dev
+287,Not spam,False,train
+288,Not spam,False,dev
+289,Not spam,False,dev
+290,Not spam,False,train
+291,Not spam,False,train
+292,Not spam,False,train
+293,Not spam,False,train
+294,Not spam,False,train
+295,Not spam,False,test
+296,Spam,True,train
+297,Not spam,False,test
+298,Not spam,False,train
+299,Not spam,False,train
+300,Not spam,False,train
+301,Not spam,False,train
+302,Not spam,False,train
+303,Not spam,False,test
+304,Not spam,False,dev
+305,Spam,False,dev
+306,Not spam,False,train
+307,Not spam,False,train
+308,Not spam,False,train
+309,Spam,False,dev
+310,Not spam,False,test
+311,Not spam,False,train
+312,Spam,True,dev
+313,Not spam,False,dev
+314,Not spam,False,train
+315,Not spam,False,train
+316,Not spam,False,train
+317,Not spam,False,train
+318,Not spam,False,test
+319,Spam,True,train
+320,Not spam,False,train
+321,Not spam,False,test
+322,Not spam,False,train
+323,Not spam,False,dev
+324,Not spam,False,train
+325,Not spam,False,train
+327,Not spam,False,test
+328,Not spam,False,train
+329,Not spam,False,train
+330,Not spam,False,train
+331,Not spam,False,train
+332,Not spam,False,train
+333,Spam,False,dev
+334,Not spam,False,train
+335,Spam,True,test
+336,Not spam,False,train
+337,Not spam,False,train
+338,Not spam,False,train
+340,Not spam,False,train
+341,Not spam,False,train
+342,Not spam,False,train
+343,Not spam,False,test
+344,Not spam,False,train
+345,Not spam,False,train
+346,Not spam,False,train
+347,Not spam,False,dev
+348,Not spam,False,test
+349,Spam,False,train
+350,Not spam,False,train
+351,Not spam,False,train
+352,Not spam,False,train
+353,Not spam,False,train
+354,Not spam,False,train
+355,Not spam,False,train
+356,Not spam,False,train
+358,Spam,False,train
+359,Not spam,False,train
+360,Not spam,False,train
+361,Not spam,False,train
+362,Not spam,False,train
+363,Not spam,False,train
+364,Not spam,False,train
+365,Not spam,False,train
+366,Not spam,False,train
+367,Spam,True,train
+368,Spam,False,test
+369,Not spam,False,test
+370,Not spam,False,test
+371,Not spam,False,train
+372,Not spam,False,train
+373,Not spam,False,train
+374,Not spam,False,train
+375,Spam,False,train
+376,Not spam,False,train
+377,Not spam,False,train
+378,Not spam,False,train
+379,Not spam,False,train
+380,Not spam,False,train
+381,Not spam,False,test
+382,Not spam,False,train
+383,Not spam,False,train
+384,Not spam,False,train
+385,Spam,True,train
+386,Not spam,False,train
+387,Not spam,False,train
+388,Not spam,False,train
+389,Spam,True,test
+390,Not spam,False,test
+391,Not spam,False,dev
+392,Not spam,False,train
+393,Not spam,False,train
+394,Not spam,False,train
+395,Not spam,False,train
+396,Not spam,False,train
+397,Not spam,False,dev
+398,Not spam,False,test
+399,Not spam,True,train
+400,Not spam,False,train
+401,Spam,True,train
+402,Not spam,False,test
+403,Not spam,False,train
+404,Not spam,False,train
+405,Not spam,False,train
+406,Not spam,False,dev
+407,Not spam,False,train
+408,Not spam,False,dev
+409,Not spam,False,test
+410,Not spam,False,dev
+411,Not spam,False,train
+412,Not spam,False,train
+413,Not spam,False,train
+414,Not spam,False,test
+415,Spam,False,train
+416,Not spam,False,train
+417,Not spam,False,train
+418,Spam,True,train
+419,Not spam,False,train
+420,Spam,False,train
+421,Not spam,False,test
+422,Spam,False,test
+423,Not spam,False,train
+424,Spam,True,dev
+425,Not spam,False,train
+426,Not spam,False,train
+427,Not spam,False,train
+428,Not spam,False,train
+429,Not spam,False,train
+430,Not spam,False,train
+431,Not spam,False,train
+432,Not spam,False,train
+433,Spam,False,dev
+434,Not spam,False,dev
+435,Not spam,False,dev
+436,Not spam,False,test
+437,Not spam,False,train
+438,Not spam,False,test
+439,Not spam,False,train
+440,Not spam,False,train
+441,Not spam,False,dev
+442,Not spam,False,train
+443,Not spam,False,test
+445,Not spam,False,train
+446,Not spam,False,train
+447,Not spam,False,train
+448,Not spam,False,train
+449,Not spam,False,train
+450,Not spam,False,train
+451,Not spam,False,train
+452,Not spam,False,dev
+453,Not spam,False,test
+454,Not spam,False,train
+455,Spam,True,train
+456,Not spam,False,test
+457,Not spam,False,train
+458,Not spam,False,train
+459,Not spam,False,train
+460,Not spam,False,dev
+461,Not spam,False,train
+462,Not spam,False,train
+463,Spam,True,dev
+464,Not spam,False,train
+465,Not spam,False,train
+466,Not spam,False,test
+467,Not spam,False,dev
+468,Not spam,False,train
+469,Not spam,False,train
+470,Not spam,False,dev
+471,Spam,False,train
+472,Not spam,False,test
+473,Not spam,False,train
+474,Spam,False,train
+475,Not spam,False,test
+476,Not spam,False,train
+477,Not spam,False,train
+478,Not spam,False,train
+479,Not spam,False,dev
+480,Not spam,False,dev
+481,Not spam,False,train
+482,Not spam,False,train
+483,Not spam,False,train
+484,Not spam,False,train
+485,Not spam,False,train
+486,Not spam,True,test
+487,Spam,True,test
+488,Not spam,False,train
+489,Not spam,False,train
+490,Not spam,False,test
+491,Not spam,False,train
+493,Not spam,False,train
+494,Not spam,False,train
+495,Not spam,True,test
+496,Not spam,False,train
+497,Not spam,False,train
+498,Not spam,False,train
+499,Not spam,False,train
+500,Not spam,False,test
+501,Not spam,True,test
+502,Not spam,False,train
+503,Not spam,False,train
+504,Not spam,False,train
+505,Spam,True,train
+506,Not spam,False,train
+507,Not spam,False,dev
+508,Not spam,False,train
+509,Not spam,False,dev
+510,Not spam,False,train
+511,Not spam,False,train
+512,Not spam,False,train
+513,Not spam,False,train
+514,Not spam,False,train
+515,Spam,True,test
+516,Not spam,False,train
+517,Spam,False,train
+518,Spam,False,train
+519,Not spam,True,train
+520,Not spam,False,train
+521,Not spam,False,train
+522,Not spam,False,test
+523,Not spam,False,train
+524,Not spam,False,train
+525,Spam,True,dev
+526,Not spam,False,train
+527,Spam,True,train
+528,Not spam,False,train
+529,Spam,False,train
+530,Not spam,False,train
+531,Spam,False,test
+532,Not spam,False,dev
+534,Not spam,False,train
+535,Not spam,False,train
+536,Not spam,False,dev
+537,Not spam,False,train
+538,Not spam,False,train
+539,Not spam,False,train
+540,Not spam,False,train
+541,Spam,False,train
+542,Not spam,False,train
+543,Not spam,False,train
+544,Not spam,False,train
+545,Not spam,False,train
+546,Not spam,False,dev
+547,Not spam,False,train
+548,Not spam,False,dev
+549,Not spam,False,train
+550,Not spam,False,train
+551,Not spam,False,test
+552,Not spam,False,dev
+553,Not spam,False,train
+554,Not spam,False,train
+555,Not spam,False,test
+556,Not spam,False,train
+557,Not spam,False,train
+558,Not spam,False,train
+559,Not spam,False,train
+560,Not spam,False,train
+561,Not spam,False,train
+562,Not spam,False,train
+563,Not spam,False,train
+565,Not spam,False,train
+566,Not spam,False,train
+567,Not spam,False,dev
+568,Not spam,False,dev
+569,Not spam,False,train
+570,Not spam,False,train
+571,Not spam,False,test
+572,Not spam,False,train
+573,Not spam,False,train
+574,Not spam,False,test
+575,Not spam,False,test
+576,Spam,True,train
+577,Not spam,False,dev
+578,Not spam,False,train
+579,Spam,True,train
+580,Not spam,False,dev
+581,Not spam,False,train
+582,Not spam,False,train
+583,Spam,True,train
+584,Not spam,False,train
+585,Not spam,False,train
+586,Not spam,False,train
+587,Not spam,False,train
+588,Not spam,False,dev
+589,Not spam,False,train
+590,Not spam,False,train
+591,Spam,True,train
+592,Spam,False,train
+593,Spam,False,test
+594,Not spam,False,test
+595,Not spam,False,test
+596,Not spam,False,train
+597,Not spam,False,train
+598,Spam,False,train
+599,Not spam,False,train
+600,Not spam,False,test
+601,Not spam,False,train
+602,Not spam,False,train
+603,Not spam,False,train
+604,Not spam,False,dev
+605,Not spam,False,train
+606,Not spam,False,train
+607,Spam,True,dev
+608,Not spam,False,test
+609,Not spam,False,train
+610,Not spam,False,train
+611,Spam,False,test
+612,Not spam,False,test
+613,Not spam,False,train
+614,Not spam,False,dev
+615,Not spam,False,train
+616,Not spam,False,train
+617,Not spam,False,train
+618,Not spam,False,train
+619,Not spam,False,train
+620,Not spam,False,dev
+621,Not spam,False,train
+622,Not spam,False,test
+623,Not spam,False,train
+624,Not spam,False,train
+625,Not spam,False,dev
+626,Not spam,False,dev
+627,Not spam,False,dev
+628,Not spam,False,train
+629,Spam,True,train
+630,Spam,False,train
+631,Not spam,False,train
+632,Not spam,False,train
+633,Not spam,False,train
+634,Not spam,False,train
+635,Spam,True,train
+636,Not spam,False,test
+637,Not spam,False,dev
+638,Not spam,False,dev
+639,Not spam,False,train
+640,Not spam,False,train
+641,Not spam,False,train
+642,Not spam,False,train
+643,Not spam,False,train
+644,Not spam,False,test
+645,Not spam,False,train
+646,Not spam,False,train
+647,Not spam,False,train
+648,Spam,False,test
+649,Not spam,False,train
+650,Spam,True,test
+651,Not spam,False,dev
+652,Not spam,False,test
+653,Not spam,False,train
+654,Not spam,False,test
+656,Not spam,False,train
+657,Not spam,False,dev
+659,Not spam,True,train
+660,Spam,False,train
+661,Not spam,False,train
+662,Not spam,False,train
+663,Not spam,False,train
+664,Not spam,False,train
+665,Not spam,False,train
+666,Not spam,False,train
+667,Not spam,False,train
+668,Not spam,False,train
+669,Not spam,False,dev
+670,Not spam,False,train
+671,Not spam,False,train
+672,Spam,False,train
+673,Spam,True,dev
+674,Not spam,False,train
+675,Not spam,False,train
+676,Not spam,False,train
+677,Not spam,False,train
+678,Not spam,False,train
+679,Not spam,False,test
+680,Not spam,False,test
+681,Not spam,False,train
+682,Not spam,False,train
+683,Not spam,False,dev
+684,Spam,False,dev
+685,Not spam,False,test
+686,Not spam,False,train
+687,Not spam,False,train
+688,Not spam,False,test
+689,Not spam,False,train
+690,Spam,False,test
+691,Not spam,False,train
+692,Not spam,False,test
+693,Not spam,False,train
+694,Not spam,False,train
+695,Not spam,False,train
+696,Not spam,False,train
+697,Not spam,False,dev
+698,Not spam,False,train
+699,Not spam,False,train
+700,Not spam,False,test
+701,Not spam,False,train
+703,Not spam,False,train
+704,Not spam,False,test
+705,Not spam,False,train
+706,Not spam,False,train
+707,Not spam,False,train
+708,Not spam,False,train
+709,Spam,False,train
+710,Spam,True,train
+711,Not spam,False,train
+712,Not spam,False,train
+713,Spam,False,train
+714,Not spam,False,train
+715,Not spam,False,train
+716,Not spam,False,train
+717,Spam,True,test
+718,Not spam,False,train
+719,Spam,True,train
+720,Not spam,False,train
+721,Not spam,False,train
+722,Not spam,False,train
+723,Not spam,False,train
+724,Not spam,False,test
+725,Not spam,False,train
+726,Not spam,False,train
+727,Not spam,False,train
+728,Not spam,False,train
+729,Not spam,False,test
+730,Not spam,False,train
+731,Spam,False,dev
+732,Not spam,False,train
+733,Not spam,False,test
+734,Not spam,False,train
+735,Not spam,False,train
+736,Not spam,False,test
+737,Not spam,False,train
+738,Spam,True,train
+739,Not spam,False,test
+740,Not spam,False,train
+741,Not spam,False,train
+742,Not spam,False,train
+743,Not spam,False,train
+744,Not spam,True,test
+745,Not spam,False,train
+746,Not spam,False,train
+747,Not spam,False,dev
+748,Spam,False,test
+749,Not spam,False,test
+750,Not spam,False,train
+751,Spam,False,train
+752,Spam,False,train
+753,Not spam,False,train
+754,Not spam,False,train
+755,Not spam,False,train
+756,Not spam,False,train
+757,Not spam,False,test
+758,Not spam,False,test
+759,Not spam,False,test
+760,Not spam,False,train
+761,Spam,False,train
+762,Not spam,False,train
+763,Spam,False,train
+764,Not spam,False,train
+765,Not spam,False,train
+766,Spam,True,train
+767,Not spam,False,train
+770,Not spam,False,train
+771,Not spam,False,train
+772,Not spam,False,train
+773,Not spam,False,test
+774,Not spam,False,train
+776,Not spam,False,dev
+777,Not spam,False,train
+778,Not spam,False,train
+779,Not spam,False,dev
+780,Not spam,False,train
+782,Not spam,False,train
+783,Not spam,False,train
+784,Spam,False,dev
+785,Not spam,False,train
+786,Not spam,False,train
+787,Not spam,False,train
+788,Spam,False,train
+789,Spam,True,test
+791,Not spam,False,dev
+792,Not spam,False,test
+793,Not spam,False,train
+794,Not spam,False,train
+795,Not spam,False,train
+796,Not spam,False,train
+797,Spam,True,dev
+798,Not spam,False,train
+799,Not spam,False,dev
+800,Not spam,False,test
+801,Spam,True,dev
+802,Not spam,False,train
+803,Spam,True,train
+804,Spam,True,dev
+805,Not spam,False,train
+806,Not spam,False,train
+807,Not spam,False,train
+808,Not spam,False,train
+809,Not spam,False,dev
+810,Not spam,False,train
+811,Not spam,False,dev
+812,Not spam,False,train
+813,Spam,True,train
+814,Not spam,False,test
+815,Spam,False,train
+816,Not spam,False,train
+817,Not spam,False,train
+818,Not spam,False,dev
+819,Not spam,False,dev
+820,Not spam,False,train
+821,Not spam,False,train
+822,Not spam,False,train
+823,Spam,False,test
+824,Spam,False,train
+826,Not spam,False,dev
+827,Not spam,False,train
+828,Not spam,False,dev
+829,Not spam,False,train
+830,Not spam,False,test
+831,Spam,False,dev
+832,Not spam,False,train
+833,Spam,True,train
+834,Not spam,False,train
+835,Not spam,True,train
+836,Not spam,False,train
+837,Spam,False,dev
+838,Not spam,False,train
+839,Spam,True,train
+840,Spam,True,dev
+841,Not spam,False,train
+842,Not spam,False,test
+843,Not spam,False,train
+844,Spam,False,train
+845,Not spam,False,train
+846,Not spam,False,test
+847,Not spam,False,train
+848,Not spam,False,train
+849,Not spam,False,train
+851,Not spam,False,dev
+852,Not spam,False,test
+853,Not spam,False,train
+854,Not spam,False,train
+855,Not spam,False,train
+856,Spam,False,test
+857,Not spam,False,train
+858,Not spam,False,train
+859,Not spam,False,train
+860,Not spam,False,train
+861,Not spam,False,train
+862,Not spam,False,test
+863,Not spam,False,dev
+864,Not spam,False,train
+865,Not spam,False,train
+866,Spam,False,train
+867,Not spam,False,train
+868,Spam,False,test
+869,Spam,False,train
+870,Spam,True,test
+871,Not spam,False,train
+872,Not spam,False,train
+873,Not spam,False,train
+874,Not spam,False,train
+875,Not spam,False,train
+876,Spam,False,train
+877,Not spam,False,dev
+878,Spam,True,train
+879,Spam,False,train
+880,Spam,False,train
+881,Spam,False,train
+882,Not spam,False,dev
+883,Not spam,False,train
+884,Not spam,False,dev
+885,Not spam,False,train
+886,Not spam,False,dev
+887,Not spam,False,train
+888,Not spam,False,train
+889,Not spam,False,dev
+890,Not spam,False,test
+891,Not spam,False,train
+892,Not spam,False,train
+893,Not spam,False,train
+894,Not spam,False,train
+895,Not spam,False,dev
+896,Not spam,False,test
+897,Not spam,False,test
+898,Not spam,False,dev
+899,Not spam,False,train
+901,Not spam,False,train
+902,Not spam,False,dev
+903,Not spam,False,train
+904,Not spam,False,train
+905,Not spam,False,train
+906,Not spam,False,dev
+907,Spam,True,train
+908,Not spam,False,train
+909,Not spam,False,train
+910,Spam,False,train
+911,Not spam,False,train
+912,Not spam,False,train
+913,Not spam,False,train
+914,Not spam,False,train
+915,Not spam,False,test
+916,Not spam,False,dev
+917,Not spam,False,train
+918,Not spam,False,train
+919,Not spam,False,train
+920,Not spam,False,train
+921,Not spam,False,train
+922,Not spam,False,train
+923,Not spam,False,train
+924,Not spam,False,train
+925,Not spam,False,train
+926,Not spam,False,dev
+927,Not spam,False,train
+928,Not spam,False,train
+929,Not spam,False,test
+930,Spam,True,train
+931,Not spam,False,train
+932,Not spam,False,train
+933,Not spam,False,train
+934,Not spam,False,train
+935,Spam,False,train
+936,Not spam,False,dev
+937,Not spam,False,train
+938,Not spam,False,test
+939,Spam,False,dev
+940,Not spam,False,train
+941,Not spam,False,dev
+942,Not spam,False,test
+943,Spam,False,train
+944,Not spam,False,train
+945,Not spam,False,train
+946,Not spam,False,test
+947,Spam,False,test
+948,Not spam,True,train
+949,Not spam,False,train
+950,Not spam,False,test
+951,Not spam,False,test
+952,Not spam,False,dev
+953,Not spam,False,train
+954,Not spam,False,train
+955,Spam,False,train
+956,Not spam,False,train
+957,Not spam,False,dev
+958,Not spam,False,dev
+959,Not spam,False,train
+960,Not spam,False,test
+961,Not spam,False,train
+962,Spam,True,train
+964,Not spam,False,train
+966,Not spam,False,train
+967,Not spam,False,train
+968,Not spam,False,train
+969,Not spam,False,train
+970,Not spam,False,test
+971,Not spam,False,train
+972,Not spam,False,train
+973,Not spam,False,train
+974,Not spam,False,train
+975,Not spam,False,train
+976,Not spam,False,train
+977,Not spam,False,train
+978,Not spam,False,train
+979,Not spam,False,dev
+980,Not spam,False,train
+981,Not spam,False,train
+982,Not spam,False,dev
+983,Spam,False,train
+984,Not spam,False,test
+985,Not spam,False,train
+986,Not spam,False,dev
+987,Not spam,False,train
+988,Not spam,False,train
+989,Not spam,False,train
+990,Not spam,False,train
+991,Not spam,False,dev
+992,Not spam,False,train
+993,Not spam,False,train
+994,Not spam,False,train
+995,Not spam,False,train
+996,Not spam,False,train
+997,Not spam,False,train
+998,Not spam,False,train
+999,Not spam,False,train
+1000,Not spam,False,train
+1001,Not spam,False,test
+1004,Not spam,False,dev
+1005,Not spam,False,train
+1006,Not spam,False,train
+1007,Spam,True,train
+1008,Not spam,False,train
+1009,Not spam,False,train
+1010,Not spam,False,test
+1011,Not spam,False,train
+1012,Not spam,False,test
+1013,Not spam,False,test
+1014,Not spam,False,train
+1015,Not spam,False,dev
+1016,Not spam,False,train
+1017,Spam,True,dev
+1018,Not spam,False,test
+1019,Not spam,False,test
+1020,Not spam,False,train
+1021,Not spam,False,test
+1022,Spam,False,test
+1023,Not spam,False,train
+1024,Not spam,False,test
+1025,Not spam,False,train
+1026,Not spam,False,train
+1027,Not spam,False,train
+1028,Not spam,False,train
+1029,Not spam,False,train
+1030,Not spam,False,train
+1031,Not spam,False,train
+1032,Not spam,False,train
+1033,Not spam,False,train
+1034,Not spam,False,train
+1035,Not spam,False,train
+1036,Not spam,False,train
+1037,Not spam,False,train
+1038,Not spam,False,test
+1039,Not spam,False,train
+1040,Not spam,False,dev
+1041,Not spam,False,train
+1042,Not spam,False,test
+1044,Not spam,False,test
+1045,Spam,False,train
+1046,Not spam,False,test
+1047,Not spam,False,dev
+1048,Spam,False,train
+1049,Not spam,False,test
+1050,Spam,False,train
+1051,Not spam,False,train
+1052,Not spam,False,train
+1053,Not spam,False,train
+1054,Not spam,False,train
+1055,Not spam,False,train
+1056,Not spam,False,dev
+1057,Not spam,False,train
+1058,Not spam,False,train
+1059,Not spam,False,dev
+1060,Spam,True,test
+1061,Not spam,False,train
+1062,Not spam,False,train
+1063,Not spam,False,train
+1064,Spam,False,train
+1065,Not spam,False,train
+1066,Not spam,False,test
+1067,Not spam,True,train
+1068,Not spam,False,train
+1069,Spam,False,train
+1070,Not spam,False,dev
+1071,Not spam,False,train
+1072,Spam,True,train
+1073,Spam,False,test
+1074,Not spam,False,test
+1075,Not spam,False,train
+1076,Not spam,False,train
+1077,Not spam,False,test
+1078,Not spam,False,test
+1079,Not spam,False,train
+1080,Not spam,False,dev
+1081,Not spam,False,train
+1082,Not spam,False,test
+1083,Not spam,False,train
+1084,Not spam,False,test
+1085,Not spam,False,train
+1086,Not spam,False,dev
+1087,Not spam,False,train
+1088,Not spam,False,train
+1089,Spam,False,train
+1090,Not spam,False,train
+1091,Spam,True,train
+1092,Not spam,False,train
+1093,Not spam,False,train
+1094,Not spam,False,train
+1095,Not spam,False,train
+1096,Not spam,False,train
+1097,Spam,False,train
+1098,Not spam,False,train
+1099,Not spam,False,test
+1100,Not spam,False,dev
+1101,Not spam,False,train
+1102,Not spam,False,train
+1103,Not spam,False,train
+1104,Not spam,False,dev
+1105,Spam,False,train
+1106,Not spam,False,train
+1107,Not spam,False,test
+1108,Not spam,False,train
+1109,Not spam,False,train
+1110,Not spam,False,train
+1111,Not spam,False,train
+1112,Not spam,False,train
+1113,Not spam,False,train
+1114,Not spam,False,train
+1115,Not spam,False,test
+1116,Not spam,False,train
+1117,Not spam,False,train
+1118,Spam,True,train
+1119,Not spam,False,train
+1120,Spam,False,test
+1121,Not spam,False,train
+1122,Spam,False,train
+1123,Not spam,False,train
+1124,Not spam,False,train
+1125,Not spam,False,train
+1126,Spam,False,train
+1127,Not spam,False,train
+1128,Not spam,False,test
+1129,Spam,False,train
+1130,Not spam,False,test
+1131,Not spam,False,train
+1135,Not spam,False,train
+1136,Not spam,False,test
+1137,Spam,True,train
+1138,Not spam,False,train
+1139,Not spam,False,test
+1141,Not spam,False,train
+1142,Spam,False,dev
+1143,Not spam,False,train
+1144,Not spam,False,train
+1145,Not spam,False,dev
+1146,Spam,True,train
+1147,Not spam,False,train
+1148,Not spam,False,train
+1149,Not spam,False,train
+1150,Not spam,False,train
+1151,Not spam,False,test
+1153,Not spam,False,train
+1154,Spam,False,train
+1155,Not spam,False,dev
+1156,Not spam,False,dev
+1157,Not spam,False,train
+1158,Not spam,False,dev
+1159,Not spam,False,train
+1160,Not spam,True,dev
+1161,Not spam,False,train
+1162,Not spam,False,train
+1165,Not spam,False,train
+1166,Not spam,False,test
+1167,Not spam,False,train
+1168,Not spam,False,train
+1169,Not spam,False,dev
+1170,Not spam,False,train
+1171,Not spam,False,train
+1172,Spam,False,dev
+1173,Not spam,False,train
+1174,Not spam,False,dev
+1175,Not spam,False,dev
+1176,Not spam,False,train
+1177,Not spam,False,test
+1178,Not spam,False,test
+1179,Not spam,False,train
+1180,Not spam,False,dev
+1181,Not spam,False,test
+1182,Not spam,False,train
+1183,Not spam,False,test
+1184,Not spam,False,train
+1185,Not spam,False,train
+1186,Not spam,False,train
+1187,Not spam,False,train
+1188,Not spam,False,train
+1189,Not spam,False,train
+1190,Not spam,False,test
+1191,Not spam,False,dev
+1192,Not spam,False,train
+1193,Not spam,False,train
+1194,Spam,True,train
+1195,Not spam,False,train
+1196,Spam,False,test
+1197,Not spam,False,dev
+1199,Not spam,False,train
+1200,Not spam,False,train
+1201,Not spam,False,train
+1202,Not spam,False,dev
+1203,Not spam,False,train
+1204,Not spam,False,dev
+1205,Spam,True,train
+1206,Not spam,False,train
+1207,Spam,False,train
+1208,Not spam,False,train
+1209,Not spam,False,dev
+1210,Not spam,False,train
+1211,Not spam,False,train
+1212,Not spam,False,train
+1213,Not spam,False,test
+1214,Not spam,False,train
+1215,Not spam,False,train
+1216,Not spam,False,test
+1217,Spam,False,test
+1218,Not spam,False,train
+1219,Not spam,False,dev
+1220,Not spam,False,train
+1221,Spam,True,train
+1222,Not spam,False,test
+1223,Not spam,False,dev
+1224,Not spam,False,train
+1226,Not spam,False,train
+1227,Spam,True,train
+1228,Not spam,False,dev
+1229,Spam,True,test
+1230,Not spam,False,train
+1231,Not spam,False,train
+1232,Not spam,False,train
+1233,Not spam,False,train
+1234,Not spam,False,train
+1235,Not spam,False,train
+1237,Not spam,False,test
+1238,Not spam,False,train
+1239,Not spam,False,train
+1240,Not spam,False,train
+1241,Not spam,False,train
+1242,Not spam,False,train
+1243,Not spam,False,dev
+1244,Not spam,False,train
+1245,Not spam,False,train
+1246,Not spam,False,train
+1247,Not spam,False,test
+1248,Not spam,False,test
+1249,Not spam,False,train
+1252,Spam,False,train
+1253,Not spam,False,test
+1254,Not spam,False,test
+1255,Not spam,False,train
+1256,Not spam,False,train
+1257,Not spam,False,test
+1258,Not spam,False,train
+1259,Not spam,False,test
+1260,Not spam,False,train
+1261,Not spam,False,train
+1262,Not spam,False,train
+1263,Spam,False,dev
+1264,Not spam,False,train
+1265,Not spam,False,dev
+1266,Not spam,False,train
+1267,Not spam,False,dev
+1268,Not spam,False,train
+1269,Spam,False,train
+1270,Not spam,False,test
+1271,Not spam,False,test
+1272,Not spam,False,train
+1273,Not spam,False,train
+1274,Spam,True,train
+1275,Not spam,False,train
+1276,Not spam,False,train
+1277,Not spam,False,test
+1278,Not spam,False,train
+1279,Not spam,False,train
+1280,Not spam,False,train
+1281,Not spam,False,train
+1282,Not spam,False,train
+1283,Not spam,False,train
+1284,Not spam,False,train
+1285,Not spam,False,train
+1286,Not spam,False,train
+1287,Not spam,False,dev
+1288,Not spam,False,test
+1289,Not spam,False,train
+1290,Not spam,False,train
+1291,Not spam,False,test
+1292,Not spam,False,train
+1293,Not spam,False,train
+1294,Not spam,False,train
+1295,Not spam,False,train
+1296,Not spam,False,train
+1297,Not spam,False,train
+1298,Not spam,False,train
+1299,Not spam,False,train
+1300,Not spam,False,train
+1301,Not spam,False,dev
+1302,Not spam,False,test
+1303,Not spam,False,train
+1305,Not spam,False,test
+1306,Not spam,False,test
+1307,Spam,False,train
+1308,Spam,False,train
+1309,Not spam,False,train
+1310,Not spam,False,test
+1311,Not spam,False,test
+1312,Not spam,False,train
+1313,Not spam,False,train
+1314,Not spam,False,test
+1315,Not spam,False,train
+1316,Not spam,False,train
+1317,Not spam,False,train
+1318,Spam,True,dev
+1320,Not spam,False,train
+1321,Not spam,False,train
+1322,Not spam,False,train
+1323,Not spam,False,dev
+1324,Not spam,False,dev
+1325,Not spam,False,train
+1326,Not spam,False,test
+1327,Not spam,False,train
+1328,Spam,False,train
+1329,Not spam,False,dev
+1330,Not spam,False,dev
+1331,Not spam,False,train
+1332,Not spam,False,train
+1333,Not spam,False,train
+1334,Not spam,False,dev
+1335,Not spam,False,train
+1336,Not spam,False,train
+1337,Not spam,False,train
+1338,Not spam,False,train
+1339,Not spam,False,train
+1340,Not spam,False,dev
+1341,Not spam,False,train
+1342,Not spam,False,train
+1343,Not spam,False,train
+1344,Not spam,False,train
+1345,Not spam,False,train
+1346,Not spam,False,train
+1347,Not spam,False,train
+1348,Not spam,False,train
+1349,Not spam,False,dev
+1350,Spam,False,train
+1351,Not spam,False,train
+1352,Not spam,False,train
+1353,Not spam,False,train
+1354,Not spam,False,train
+1355,Not spam,False,train
+1357,Not spam,False,dev
+1358,Not spam,False,train
+1359,Not spam,False,train
+1360,Not spam,False,train
+1361,Not spam,False,test
+1362,Not spam,False,train
+1363,Not spam,False,train
+1364,Not spam,True,dev
+1365,Not spam,False,train
+1366,Spam,False,train
+1367,Not spam,False,train
+1368,Not spam,False,train
+1369,Not spam,False,train
+1370,Not spam,False,dev
+1371,Not spam,False,train
+1372,Not spam,False,test
+1373,Not spam,False,train
+1374,Spam,False,train
+1375,Spam,False,train
+1376,Not spam,False,test
+1377,Not spam,False,train
+1378,Spam,True,train
+1379,Not spam,False,train
+1381,Not spam,False,train
+1382,Not spam,False,train
+1383,Not spam,False,train
+1384,Not spam,False,train
+1385,Not spam,False,train
+1386,Not spam,False,train
+1387,Not spam,False,train
+1388,Not spam,False,train
+1389,Not spam,False,train
+1390,Not spam,False,train
+1391,Not spam,False,train
+1392,Not spam,False,dev
+1393,Not spam,False,train
+1394,Not spam,False,train
+1395,Not spam,False,test
+1396,Not spam,False,dev
+1397,Not spam,False,test
+1398,Not spam,False,dev
+1399,Not spam,False,train
+1400,Not spam,False,train
+1401,Not spam,False,dev
+1402,Not spam,False,dev
+1404,Not spam,False,train
+1405,Not spam,False,test
+1406,Not spam,False,dev
+1407,Spam,False,train
+1408,Not spam,False,train
+1409,Not spam,False,dev
+1410,Not spam,False,train
+1411,Not spam,False,train
+1412,Not spam,False,train
+1414,Spam,False,train
+1415,Not spam,False,dev
+1416,Not spam,False,dev
+1417,Not spam,False,test
+1418,Not spam,False,train
+1419,Not spam,False,train
+1420,Not spam,False,train
+1421,Not spam,False,dev
+1422,Not spam,False,train
+1423,Spam,True,train
+1424,Not spam,False,train
+1425,Not spam,False,train
+1426,Not spam,False,train
+1428,Not spam,False,train
+1429,Not spam,False,dev
+1430,Spam,False,test
+1431,Not spam,False,dev
+1432,Not spam,False,test
+1433,Not spam,False,dev
+1434,Not spam,False,train
+1435,Not spam,False,train
+1436,Not spam,False,dev
+1437,Not spam,False,train
+1438,Not spam,False,train
+1439,Not spam,False,train
+1440,Not spam,False,train
+1441,Not spam,False,train
+1442,Not spam,False,train
+1443,Not spam,False,train
+1444,Spam,True,dev
+1445,Not spam,False,train
+1446,Not spam,False,train
+1447,Not spam,False,train
+1448,Not spam,False,train
+1449,Spam,False,train
+1450,Not spam,False,dev
+1451,Not spam,False,train
+1452,Not spam,False,train
+1453,Not spam,False,train
+1454,Not spam,False,train
+1455,Not spam,False,train
+1456,Spam,True,dev
+1457,Not spam,False,train
+1458,Spam,False,train
+1460,Spam,False,train
+1461,Not spam,False,test
+1462,Not spam,False,train
+1463,Spam,True,dev
+1464,Not spam,False,train
+1465,Not spam,False,train
+1466,Spam,True,train
+1468,Not spam,False,train
+1469,Spam,False,train
+1470,Not spam,False,train
+1471,Not spam,False,test
+1472,Not spam,False,train
+1473,Not spam,False,train
+1474,Not spam,False,train
+1475,Not spam,False,dev
+1476,Not spam,False,test
+1477,Not spam,False,test
+1478,Not spam,False,train
+1479,Not spam,False,test
+1480,Not spam,False,train
+1481,Not spam,False,train
+1482,Not spam,False,train
+1484,Not spam,False,test
+1486,Not spam,False,train
+1487,Not spam,False,train
+1488,Not spam,False,train
+1489,Not spam,False,train
+1490,Not spam,False,dev
+1491,Not spam,False,test
+1492,Spam,True,train
+1493,Not spam,False,train
+1494,Not spam,False,dev
+1495,Not spam,False,test
+1496,Not spam,False,train
+1497,Not spam,False,train
+1498,Not spam,False,train
+1499,Not spam,False,train
+1500,Spam,False,train
+1501,Not spam,False,train
+1502,Spam,False,train
+1503,Not spam,False,test
+1504,Not spam,False,train
+1505,Not spam,False,train
+1506,Not spam,True,train
+1507,Spam,True,train
+1509,Not spam,False,test
+1510,Not spam,False,train
+1511,Not spam,False,train
+1512,Not spam,False,train
+1513,Not spam,False,train
+1514,Not spam,False,train
+1515,Not spam,False,train
+1516,Not spam,False,train
+1517,Not spam,False,train
+1518,Spam,True,train
+1519,Not spam,False,train
+1520,Not spam,False,train
+1521,Spam,True,test
+1522,Not spam,False,test
+1523,Not spam,False,train
+1524,Not spam,False,test
+1525,Not spam,False,train
+1526,Not spam,False,train
+1527,Not spam,False,dev
+1528,Not spam,False,train
+1529,Not spam,False,train
+1530,Not spam,False,test
+1531,Not spam,False,train
+1532,Not spam,False,test
+1533,Not spam,False,train
+1534,Not spam,False,dev
+1535,Not spam,False,train
+1536,Spam,True,dev
+1537,Not spam,False,test
+1538,Not spam,False,train
+1539,Not spam,False,test
+1540,Not spam,False,train
+1541,Not spam,False,dev
+1542,Not spam,False,train
+1543,Not spam,False,train
+1544,Spam,True,train
+1545,Not spam,False,train
+1546,Not spam,False,train
+1547,Not spam,False,train
+1548,Not spam,False,dev
+1549,Not spam,False,train
+1550,Not spam,False,train
+1551,Not spam,False,train
+1552,Not spam,False,train
+1553,Not spam,False,test
+1554,Not spam,False,train
+1555,Not spam,False,train
+1556,Not spam,False,train
+1557,Not spam,False,train
+1558,Not spam,False,train
+1559,Not spam,False,train
+1560,Not spam,False,train
+1561,Not spam,False,test
+1562,Not spam,False,dev
+1563,Not spam,False,dev
+1564,Not spam,False,train
+1565,Not spam,False,train
+1566,Not spam,False,dev
+1567,Not spam,False,train
+1568,Not spam,False,dev
+1570,Not spam,False,train
+1571,Not spam,False,train
+1572,Not spam,False,train
+1573,Spam,False,train
+1574,Spam,True,dev
+1575,Not spam,False,train
+1576,Not spam,False,test
+1577,Not spam,False,train
+1578,Not spam,False,train
+1579,Not spam,False,train
+1580,Not spam,False,test
+1581,Not spam,False,train
+1582,Not spam,False,train
+1583,Not spam,False,train
+1584,Not spam,False,train
+1586,Not spam,False,dev
+1587,Not spam,False,train
+1588,Not spam,False,train
+1589,Not spam,False,train
+1590,Not spam,False,dev
+1591,Not spam,False,train
+1592,Not spam,False,train
+1593,Not spam,False,train
+1594,Spam,False,test
+1595,Not spam,False,train
+1596,Not spam,False,dev
+1597,Spam,False,train
+1598,Spam,True,train
+1599,Not spam,False,dev
+1600,Not spam,False,train
+1601,Not spam,False,train
+1602,Not spam,False,train
+1603,Not spam,False,train
+1604,Not spam,False,dev
+1605,Not spam,False,test
+1606,Not spam,False,train
+1607,Not spam,False,test
+1608,Not spam,False,train
+1609,Not spam,False,train
+1610,Not spam,False,train
+1611,Not spam,False,test
+1612,Not spam,False,test
+1613,Spam,False,dev
+1614,Not spam,False,train
+1615,Not spam,False,train
+1616,Not spam,False,train
+1617,Not spam,False,train
+1618,Not spam,False,test
+1619,Not spam,False,train
+1620,Not spam,False,train
+1621,Not spam,False,train
+1622,Not spam,True,train
+1623,Spam,False,train
+1624,Not spam,False,train
+1625,Spam,True,dev
+1626,Not spam,False,dev
+1627,Not spam,False,train
+1628,Spam,False,train
+1629,Not spam,False,dev
+1630,Not spam,False,dev
+1631,Not spam,False,train
+1632,Not spam,False,train
+1633,Not spam,False,test
+1634,Not spam,False,train
+1635,Spam,False,test
+1636,Not spam,False,train
+1637,Not spam,False,train
+1638,Spam,False,train
+1639,Not spam,False,train
+1640,Spam,False,test
+1641,Not spam,False,train
+1642,Not spam,False,train
+1643,Not spam,False,dev
+1644,Not spam,False,train
+1645,Not spam,False,train
+1646,Not spam,False,train
+1647,Not spam,False,train
+1648,Not spam,False,dev
+1649,Not spam,False,test
+1650,Not spam,False,train
+1651,Not spam,False,train
+1652,Not spam,False,train
+1653,Spam,True,test
+1654,Not spam,False,train
+1656,Not spam,False,dev
+1657,Not spam,False,train
+1658,Not spam,False,train
+1659,Spam,True,train
+1660,Not spam,False,train
+1661,Not spam,False,train
+1662,Not spam,False,dev
+1663,Spam,True,dev
+1664,Not spam,False,train
+1665,Not spam,False,train
+1666,Not spam,False,train
+1667,Not spam,False,train
+1668,Not spam,False,test
+1669,Not spam,False,train
+1670,Not spam,False,dev
+1671,Not spam,False,train
+1672,Not spam,False,train
+1673,Spam,True,dev
+1674,Spam,False,train
+1675,Not spam,False,train
+1676,Not spam,False,test
+1677,Not spam,False,train
+1678,Not spam,False,test
+1679,Not spam,False,dev
+1681,Not spam,False,train
+1682,Not spam,False,train
+1683,Not spam,False,train
+1684,Not spam,False,train
+1685,Not spam,False,train
+1686,Not spam,False,train
+1687,Spam,False,dev
+1688,Spam,True,train
+1689,Not spam,False,train
+1690,Not spam,False,train
+1692,Not spam,False,train
+1693,Not spam,False,train
+1694,Not spam,False,dev
+1695,Not spam,False,test
+1696,Not spam,False,train
+1697,Not spam,False,train
+1698,Not spam,False,train
+1699,Spam,True,test
+1701,Not spam,False,test
+1702,Not spam,False,train
+1703,Not spam,False,dev
+1704,Not spam,False,train
+1705,Not spam,False,train
+1706,Not spam,False,train
+1707,Not spam,False,dev
+1708,Not spam,False,train
+1709,Not spam,False,test
+1710,Not spam,False,train
+1711,Not spam,False,train
+1712,Not spam,False,train
+1713,Not spam,False,train
+1714,Spam,False,dev
+1715,Not spam,False,train
+1716,Not spam,False,train
+1717,Not spam,False,train
+1718,Spam,True,train
+1719,Not spam,False,train
+1720,Not spam,False,train
+1722,Not spam,False,train
+1723,Not spam,False,train
+1724,Not spam,False,train
+1725,Not spam,False,test
+1726,Not spam,False,train
+1727,Not spam,False,train
+1728,Not spam,False,train
+1729,Not spam,False,train
+1730,Not spam,False,train
+1731,Not spam,False,dev
+1732,Not spam,False,dev
+1733,Not spam,False,train
+1734,Spam,True,train
+1735,Not spam,False,train
+1736,Not spam,False,train
+1737,Not spam,False,train
+1739,Not spam,False,train
+1740,Not spam,False,train
+1741,Spam,False,dev
+1742,Not spam,False,train
+1743,Not spam,False,train
+1744,Not spam,False,train
+1745,Spam,False,train
+1746,Not spam,False,train
+1747,Not spam,False,train
+1748,Not spam,False,test
+1749,Not spam,False,train
+1750,Not spam,False,test
+1751,Not spam,False,train
+1752,Not spam,False,train
+1753,Not spam,False,dev
+1754,Not spam,False,train
+1755,Not spam,False,train
+1756,Not spam,False,train
+1757,Not spam,False,train
+1758,Not spam,False,train
+1759,Not spam,True,test
+1760,Not spam,False,train
+1761,Not spam,False,dev
+1762,Not spam,False,train
+1763,Not spam,False,train
+1764,Not spam,False,train
+1765,Spam,True,train
+1766,Not spam,False,train
+1767,Spam,True,dev
+1768,Not spam,False,test
+1769,Not spam,False,train
+1770,Not spam,False,train
+1771,Not spam,False,train
+1772,Not spam,False,train
+1773,Not spam,False,train
+1774,Not spam,False,train
+1775,Not spam,False,train
+1776,Not spam,False,train
+1777,Spam,False,train
+1778,Spam,True,train
+1781,Spam,False,dev
+1782,Not spam,False,train
+1783,Not spam,False,train
+1784,Not spam,True,train
+1786,Not spam,False,train
+1787,Not spam,False,train
+1788,Not spam,False,dev
+1789,Not spam,False,train
+1790,Not spam,False,dev
+1791,Not spam,True,train
+1792,Not spam,False,train
+1793,Spam,True,test
+1794,Not spam,False,train
+1795,Not spam,False,train
+1796,Not spam,False,dev
+1797,Not spam,False,train
+1798,Not spam,False,train
+1799,Not spam,False,train
+1800,Not spam,False,train
+1801,Not spam,False,dev
+1802,Not spam,False,dev
+1803,Not spam,False,dev
+1804,Not spam,False,train
+1805,Not spam,False,test
+1806,Not spam,False,train
+1807,Spam,False,train
+1808,Not spam,False,train
+1809,Not spam,False,train
+1810,Not spam,False,train
+1811,Not spam,False,dev
+1812,Not spam,False,train
+1813,Not spam,False,train
+1814,Not spam,False,dev
+1815,Not spam,False,train
+1816,Not spam,False,train
+1817,Not spam,False,dev
+1818,Not spam,False,train
+1819,Not spam,False,train
+1820,Not spam,False,train
+1821,Not spam,False,train
+1822,Not spam,False,test
+1823,Not spam,False,train
+1824,Not spam,False,train
+1825,Not spam,False,test
+1827,Not spam,False,dev
+1828,Not spam,False,train
+1830,Spam,False,train
+1831,Not spam,False,test
+1832,Not spam,False,train
+1833,Not spam,False,train
+1834,Not spam,False,train
+1835,Not spam,False,train
+1836,Not spam,False,dev
+1837,Not spam,False,train
+1838,Not spam,False,train
+1839,Spam,False,train
+1840,Not spam,False,train
+1841,Not spam,False,train
+1842,Not spam,False,train
+1843,Not spam,False,train
+1844,Not spam,False,train
+1845,Not spam,False,train
+1846,Not spam,False,train
+1847,Not spam,False,train
+1848,Spam,True,train
+1849,Not spam,False,train
+1850,Not spam,False,train
+1851,Not spam,False,train
+1852,Not spam,False,train
+1853,Spam,True,test
+1854,Not spam,False,train
+1855,Not spam,False,dev
+1856,Not spam,False,train
+1857,Not spam,False,train
+1858,Not spam,False,dev
+1859,Not spam,False,train
+1860,Not spam,False,train
+1861,Not spam,False,train
+1862,Not spam,False,dev
+1863,Not spam,False,train
+1864,Not spam,False,train
+1865,Not spam,False,test
+1866,Not spam,False,dev
+1867,Not spam,False,test
+1868,Not spam,False,test
+1869,Not spam,False,train
+1870,Not spam,False,test
+1871,Not spam,False,train
+1872,Not spam,False,train
+1873,Not spam,False,train
+1874,Spam,True,train
+1875,Spam,False,dev
+1878,Not spam,False,train
+1879,Not spam,False,train
+1880,Spam,False,train
+1881,Not spam,False,train
+1882,Not spam,False,train
+1883,Not spam,False,train
+1884,Not spam,False,dev
+1885,Not spam,False,dev
+1886,Not spam,False,test
+1887,Spam,False,test
+1888,Spam,False,train
+1889,Not spam,False,train
+1890,Not spam,False,train
+1891,Not spam,False,train
+1892,Not spam,False,train
+1893,Spam,False,test
+1895,Spam,False,train
+1896,Not spam,False,train
+1897,Not spam,False,dev
+1898,Not spam,False,test
+1899,Not spam,False,train
+1900,Not spam,False,train
+1901,Not spam,False,train
+1903,Not spam,False,train
+1904,Spam,True,train
+1905,Not spam,False,train
+1906,Not spam,False,dev
+1907,Not spam,False,train
+1908,Not spam,False,train
+1909,Not spam,False,train
+1910,Not spam,False,train
+1911,Not spam,False,train
+1912,Not spam,False,train
+1913,Not spam,False,train
+1914,Not spam,False,train
+1915,Spam,True,train
+1916,Not spam,False,train
+1917,Not spam,False,train
+1918,Not spam,False,train
+1919,Not spam,False,train
+1920,Not spam,False,test
+1921,Not spam,False,train
+1922,Not spam,False,dev
+1923,Not spam,False,test
+1924,Not spam,False,train
+1925,Not spam,False,train
+1926,Not spam,False,test
+1927,Not spam,False,dev
+1928,Not spam,False,train
+1929,Spam,True,train
+1930,Spam,True,train
+1931,Not spam,False,train
+1932,Not spam,False,train
+1933,Not spam,False,train
+1934,Not spam,False,train
+1935,Not spam,False,train
+1936,Not spam,False,test
+1937,Not spam,False,train
+1938,Not spam,False,train
+1939,Not spam,False,train
+1940,Spam,False,dev
+1941,Not spam,False,dev
+1942,Spam,False,train
+1943,Not spam,False,train
+1944,Not spam,False,train
+1945,Not spam,False,train
+1946,Not spam,False,train
+1947,Not spam,False,train
+1948,Not spam,False,train
+1950,Not spam,False,train
+1951,Not spam,False,train
+1952,Not spam,False,train
+1953,Not spam,False,train
+1954,Not spam,False,train
+1955,Not spam,False,test
+1956,Not spam,False,train
+1958,Not spam,False,train
+1959,Not spam,False,train
+1960,Not spam,False,train
+1961,Spam,False,test
+1962,Not spam,False,train
+1963,Spam,True,train
+1965,Not spam,False,dev
+1966,Not spam,False,dev
+1967,Not spam,False,dev
+1968,Not spam,False,train
+1969,Not spam,False,train
+1970,Spam,True,test
+1971,Not spam,False,train
+1972,Not spam,False,train
+1973,Not spam,False,train
+1975,Not spam,False,train
+1976,Not spam,False,train
+1977,Not spam,False,train
+1978,Spam,True,dev
+1979,Not spam,False,train
+1980,Not spam,False,train
+1982,Not spam,False,train
+1983,Not spam,False,dev
+1985,Spam,False,train
+1986,Not spam,False,train
+1987,Not spam,False,test
+1990,Not spam,False,train
+1991,Not spam,False,train
+1992,Not spam,False,train
+1993,Spam,True,train
+1994,Not spam,False,train
+1995,Not spam,False,train
+1997,Not spam,False,test
+1998,Not spam,False,train
+1999,Not spam,False,train
+2000,Not spam,False,train
+2001,Not spam,False,test
+2002,Not spam,False,test
+2003,Spam,True,train
+2004,Not spam,False,test
+2005,Not spam,False,train
+2006,Not spam,False,train
+2007,Not spam,False,test
+2008,Not spam,False,train
+2009,Not spam,False,dev
+2010,Not spam,False,test
+2011,Not spam,False,train
+2012,Not spam,False,train
+2013,Not spam,False,test
+2014,Spam,False,dev
+2015,Not spam,False,train
+2016,Not spam,False,train
+2017,Not spam,False,train
+2018,Not spam,False,train
+2019,Not spam,False,train
+2020,Not spam,False,test
+2021,Not spam,False,test
+2022,Not spam,False,train
+2023,Spam,True,train
+2024,Not spam,False,test
+2025,Not spam,False,dev
+2026,Not spam,False,train
+2027,Not spam,False,train
+2028,Not spam,False,train
+2029,Not spam,False,train
+2030,Not spam,False,test
+2031,Not spam,False,train
+2032,Not spam,False,train
+2033,Not spam,False,train
+2034,Not spam,False,test
+2035,Not spam,False,train
+2036,Not spam,False,train
+2037,Not spam,False,train
+2038,Not spam,False,train
+2039,Not spam,False,dev
+2040,Not spam,False,dev
+2041,Not spam,False,train
+2042,Not spam,False,train
+2043,Not spam,False,train
+2045,Not spam,False,test
+2046,Not spam,False,test
+2047,Not spam,False,train
+2048,Not spam,False,train
+2049,Not spam,False,train
+2050,Not spam,False,dev
+2051,Not spam,False,train
+2052,Not spam,False,train
+2053,Spam,False,train
+2054,Not spam,False,dev
+2055,Not spam,False,train
+2056,Not spam,False,dev
+2057,Not spam,False,dev
+2058,Not spam,False,test
+2059,Not spam,False,train
+2060,Not spam,False,dev
+2061,Not spam,False,dev
+2062,Not spam,False,train
+2063,Not spam,False,test
+2064,Spam,True,train
+2065,Not spam,False,dev
+2066,Not spam,False,dev
+2067,Not spam,False,train
+2068,Not spam,False,train
+2069,Not spam,False,train
+2071,Spam,False,train
+2072,Not spam,False,train
+2073,Not spam,False,dev
+2074,Spam,False,train
+2075,Not spam,False,dev
+2076,Not spam,False,train
+2077,Not spam,False,train
+2078,Not spam,False,dev
+2079,Spam,True,dev
+2080,Not spam,False,train
+2081,Not spam,False,train
+2082,Not spam,False,test
+2083,Not spam,False,train
+2084,Not spam,False,dev
+2085,Not spam,False,train
+2086,Not spam,False,train
+2087,Not spam,False,train
+2088,Not spam,False,train
+2089,Spam,False,train
+2090,Not spam,False,train
+2091,Not spam,False,dev
+2092,Not spam,False,train
+2093,Not spam,False,train
+2094,Spam,True,dev
+2096,Not spam,False,train
+2097,Not spam,False,train
+2098,Not spam,False,train
+2099,Not spam,False,train
+2100,Spam,False,dev
+2101,Not spam,False,train
+2102,Not spam,False,test
+2103,Not spam,False,train
+2104,Not spam,False,train
+2105,Not spam,False,train
+2106,Not spam,False,test
+2107,Not spam,False,train
+2108,Not spam,False,train
+2110,Not spam,False,test
+2111,Not spam,False,train
+2112,Not spam,False,test
+2113,Spam,True,dev
+2114,Not spam,False,train
+2115,Spam,False,test
+2116,Not spam,False,train
+2117,Not spam,False,train
+2118,Not spam,False,train
+2119,Spam,True,test
+2120,Not spam,False,train
+2121,Not spam,True,train
+2122,Not spam,False,train
+2123,Not spam,False,train
+2126,Not spam,False,train
+2127,Not spam,False,dev
+2128,Not spam,False,dev
+2129,Not spam,False,train
+2130,Not spam,False,train
+2131,Not spam,False,train
+2132,Not spam,False,train
+2133,Spam,False,dev
+2134,Not spam,False,train
+2136,Not spam,False,train
+2137,Not spam,False,train
+2138,Not spam,False,train
+2139,Not spam,False,train
+2140,Not spam,False,train
+2141,Not spam,False,train
+2142,Not spam,False,train
+2143,Not spam,False,train
+2144,Not spam,False,train
+2145,Spam,False,test
+2147,Not spam,False,train
+2148,Not spam,False,train
+2149,Not spam,False,train
+2150,Not spam,False,train
+2151,Not spam,False,test
+2152,Not spam,False,train
+2153,Not spam,False,test
+2154,Not spam,False,train
+2155,Not spam,False,test
+2156,Not spam,False,train
+2157,Not spam,False,dev
+2158,Not spam,False,train
+2159,Not spam,False,test
+2160,Spam,True,train
+2161,Not spam,False,train
+2162,Not spam,False,train
+2164,Not spam,False,train
+2165,Not spam,False,train
+2166,Not spam,False,train
+2167,Not spam,False,train
+2168,Not spam,False,train
+2169,Not spam,False,train
+2171,Not spam,False,train
+2172,Not spam,False,train
+2173,Not spam,False,dev
+2174,Not spam,False,dev
+2175,Not spam,False,dev
+2177,Not spam,False,train
+2178,Not spam,False,train
+2179,Not spam,False,train
+2180,Not spam,False,train
+2181,Not spam,False,train
+2182,Not spam,False,train
+2183,Not spam,False,train
+2184,Not spam,False,dev
+2185,Not spam,False,dev
+2186,Not spam,False,train
+2187,Not spam,False,train
+2188,Not spam,False,test
+2189,Spam,True,test
+2190,Not spam,False,train
+2191,Not spam,False,train
+2192,Not spam,False,train
+2193,Not spam,False,train
+2194,Not spam,False,test
+2195,Not spam,False,train
+2196,Not spam,False,dev
+2197,Not spam,False,train
+2198,Not spam,False,dev
+2199,Not spam,False,train
+2200,Not spam,False,train
+2201,Not spam,False,train
+2202,Not spam,False,train
+2203,Not spam,False,train
+2204,Not spam,False,train
+2205,Not spam,False,train
+2206,Not spam,False,test
+2207,Spam,True,test
+2208,Not spam,False,train
+2209,Spam,False,train
+2210,Not spam,False,train
+2211,Not spam,False,train
+2212,Not spam,False,test
+2213,Not spam,False,train
+2214,Not spam,False,train
+2215,Not spam,False,train
+2217,Not spam,False,dev
+2218,Not spam,False,train
+2219,Not spam,False,train
+2220,Spam,True,train
+2221,Not spam,False,train
+2222,Not spam,False,train
+2223,Not spam,False,train
+2224,Spam,False,train
+2225,Not spam,True,train
+2226,Not spam,False,dev
+2227,Not spam,False,train
+2228,Not spam,False,train
+2229,Not spam,False,dev
+2230,Not spam,False,train
+2231,Not spam,False,test
+2232,Not spam,True,train
+2233,Not spam,False,train
+2235,Not spam,False,test
+2236,Not spam,False,dev
+2237,Not spam,False,train
+2238,Not spam,False,train
+2239,Not spam,False,dev
+2240,Not spam,False,test
+2241,Not spam,False,train
+2242,Not spam,False,train
+2243,Not spam,False,train
+2244,Not spam,False,train
+2245,Not spam,False,train
+2246,Not spam,False,test
+2247,Spam,False,train
+2248,Spam,False,train
+2249,Not spam,False,train
+2250,Spam,False,train
+2251,Not spam,False,test
+2252,Not spam,False,train
+2253,Not spam,False,test
+2254,Not spam,False,train
+2255,Not spam,False,train
+2256,Not spam,False,test
+2257,Not spam,False,train
+2258,Not spam,False,dev
+2259,Not spam,False,train
+2260,Not spam,False,train
+2261,Spam,False,train
+2262,Not spam,False,train
+2263,Not spam,False,train
+2264,Spam,False,train
+2267,Spam,True,train
+2268,Not spam,False,dev
+2269,Spam,False,train
+2270,Not spam,False,train
+2271,Not spam,False,train
+2272,Not spam,False,dev
+2273,Not spam,False,dev
+2274,Not spam,False,test
+2275,Not spam,False,dev
+2276,Not spam,False,test
+2278,Not spam,False,dev
+2279,Not spam,False,dev
+2280,Not spam,False,train
+2281,Not spam,False,dev
+2282,Not spam,False,train
+2283,Not spam,False,train
+2284,Not spam,False,train
+2285,Not spam,False,train
+2286,Not spam,False,test
+2287,Not spam,False,train
+2288,Not spam,False,dev
+2289,Not spam,True,test
+2290,Spam,True,train
+2291,Not spam,False,train
+2292,Not spam,False,train
+2293,Not spam,False,train
+2294,Not spam,False,train
+2295,Spam,False,test
+2296,Not spam,False,dev
+2297,Spam,False,test
+2298,Not spam,False,train
+2299,Not spam,False,train
+2301,Not spam,False,train
+2302,Not spam,False,train
+2303,Not spam,False,test
+2304,Not spam,False,train
+2305,Not spam,False,train
+2306,Not spam,False,train
+2307,Not spam,False,test
+2309,Spam,True,train
+2310,Not spam,False,train
+2312,Spam,True,test
+2313,Spam,True,train
+2314,Not spam,False,dev
+2315,Not spam,False,train
+2316,Not spam,False,train
+2317,Not spam,False,train
+2318,Not spam,False,train
+2319,Not spam,False,train
+2320,Not spam,False,test
+2321,Not spam,False,dev
+2323,Not spam,False,train
+2324,Not spam,False,dev
+2325,Not spam,False,train
+2326,Not spam,False,dev
+2328,Spam,True,test
+2329,Not spam,False,test
+2330,Not spam,True,train
+2331,Not spam,False,train
+2332,Not spam,False,test
+2333,Not spam,False,train
+2334,Not spam,False,train
+2335,Not spam,False,train
+2336,Not spam,False,test
+2337,Not spam,False,dev
+2338,Not spam,False,test
+2339,Not spam,False,train
+2340,Not spam,False,test
+2341,Not spam,False,train
+2342,Not spam,False,train
+2343,Spam,True,test
+2346,Not spam,False,dev
+2347,Not spam,False,train
+2348,Not spam,False,dev
+2349,Not spam,False,train
+2350,Not spam,False,train
+2352,Spam,False,train
+2353,Not spam,False,train
+2354,Spam,False,train
+2355,Not spam,False,train
+2356,Not spam,False,train
+2357,Not spam,False,train
+2358,Not spam,False,train
+2359,Not spam,False,train
+2360,Spam,True,train
+2361,Not spam,False,test
+2362,Not spam,False,train
+2364,Spam,False,test
+2365,Not spam,False,train
+2366,Not spam,False,dev
+2367,Spam,True,train
+2368,Not spam,False,train
+2369,Not spam,False,train
+2370,Not spam,True,dev
+2371,Not spam,False,train
+2372,Not spam,False,train
+2373,Not spam,False,train
+2374,Spam,True,train
+2375,Not spam,False,train
+2376,Not spam,False,train
+2377,Not spam,False,test
+2378,Spam,False,train
+2379,Not spam,True,train
+2380,Not spam,False,train
+2381,Not spam,False,dev
+2382,Not spam,False,dev
+2383,Not spam,False,test
+2384,Not spam,False,train
+2386,Spam,False,train
+2387,Not spam,False,test
+2388,Not spam,False,dev
+2389,Not spam,False,train
+2390,Not spam,False,train
+2391,Not spam,False,train
+2392,Not spam,False,train
+2393,Not spam,False,train
+2394,Not spam,False,train
+2395,Not spam,False,test
+2396,Not spam,False,test
+2397,Not spam,False,dev
+2398,Not spam,False,train
+2399,Not spam,False,dev
+2400,Not spam,False,train
+2401,Not spam,False,train
+2402,Spam,False,train
+2403,Not spam,False,train
+2404,Not spam,False,train
+2405,Not spam,False,train
+2406,Not spam,False,train
+2407,Not spam,False,train
+2408,Not spam,False,train
+2409,Not spam,False,test
+2410,Not spam,False,train
+2411,Not spam,False,train
+2412,Not spam,False,dev
+2414,Not spam,False,test
+2415,Not spam,False,train
+2416,Not spam,False,train
+2417,Not spam,False,train
+2418,Not spam,False,train
+2419,Not spam,False,train
+2420,Spam,False,train
+2421,Not spam,False,train
+2422,Not spam,False,train
+2423,Not spam,False,train
+2424,Not spam,False,test
+2425,Not spam,False,dev
+2426,Not spam,False,test
+2427,Spam,True,test
+2428,Not spam,False,train
+2429,Not spam,False,train
+2430,Spam,False,train
+2431,Not spam,False,train
+2432,Not spam,False,train
+2433,Not spam,False,test
+2434,Not spam,True,dev
+2435,Not spam,False,test
+2436,Not spam,False,train
+2437,Not spam,False,train
+2438,Spam,True,train
+2439,Not spam,False,train
+2440,Not spam,False,train
+2441,Not spam,False,test
+2442,Not spam,False,dev
+2443,Not spam,False,train
+2444,Not spam,False,dev
+2445,Not spam,False,train
+2446,Not spam,False,dev
+2448,Not spam,False,train
+2449,Not spam,False,train
+2450,Not spam,False,test
+2451,Not spam,False,dev
+2452,Not spam,False,train
+2453,Not spam,False,train
+2454,Not spam,False,train
+2455,Not spam,False,dev
+2456,Not spam,False,train
+2457,Not spam,False,dev
+2458,Not spam,False,test
+2459,Not spam,False,dev
+2460,Not spam,False,train
+2461,Not spam,False,dev
+2462,Not spam,False,test
+2463,Not spam,False,train
+2464,Not spam,False,train
+2465,Not spam,False,train
+2466,Not spam,False,train
+2467,Not spam,False,test
+2468,Not spam,False,dev
+2469,Not spam,False,train
+2470,Not spam,False,train
+2471,Not spam,False,train
+2472,Not spam,False,train
+2474,Not spam,False,train
+2475,Not spam,False,train
+2476,Not spam,False,train
+2478,Not spam,False,train
+2479,Not spam,False,train
+2480,Spam,True,train
+2481,Spam,True,dev
+2482,Not spam,False,test
+2483,Not spam,False,train
+2484,Not spam,False,train
+2485,Not spam,False,train
+2486,Not spam,False,test
+2487,Not spam,False,train
+2488,Not spam,False,train
+2489,Not spam,False,train
+2490,Not spam,False,train
+2491,Not spam,False,dev
+2492,Not spam,False,dev
+2493,Not spam,False,train
+2494,Not spam,False,train
+2495,Not spam,False,train
+2496,Spam,True,train
+2497,Not spam,False,train
+2498,Not spam,False,train
+2499,Not spam,False,train
+2500,Not spam,False,train
+2501,Not spam,False,test
+2502,Not spam,False,test
+2503,Not spam,False,train
+2504,Not spam,False,test
+2505,Not spam,False,dev
+2506,Not spam,False,train
+2507,Not spam,False,dev
+2508,Not spam,False,train
+2510,Not spam,False,train
+2511,Not spam,False,train
+2512,Not spam,False,train
+2513,Not spam,False,train
+2514,Spam,True,train
+2515,Not spam,False,train
+2516,Not spam,False,dev
+2517,Not spam,False,dev
+2520,Not spam,False,test
+2521,Not spam,False,train
+2523,Not spam,False,train
+2525,Spam,True,train
+2527,Not spam,False,dev
+2528,Not spam,False,train
+2529,Not spam,False,dev
+2530,Not spam,False,test
+2531,Not spam,False,test
+2532,Not spam,False,train
+2533,Not spam,False,train
+2534,Not spam,False,train
+2535,Not spam,False,dev
+2536,Not spam,False,dev
+2537,Not spam,False,dev
+2538,Not spam,False,train
+2539,Not spam,False,train
+2540,Not spam,False,dev
+2541,Not spam,False,train
+2542,Not spam,False,train
+2543,Not spam,False,train
+2544,Not spam,False,train
+2545,Not spam,False,test
+2546,Not spam,False,train
+2547,Not spam,False,test
+2548,Spam,False,train
+2549,Not spam,False,train
+2550,Not spam,False,train
+2551,Not spam,False,dev
+2552,Not spam,False,dev
+2553,Not spam,False,train
+2554,Not spam,False,train
+2555,Not spam,False,test
+2556,Spam,True,train
+2557,Not spam,False,train
+2558,Spam,False,train
+2559,Not spam,False,dev
+2560,Not spam,False,test
+2561,Not spam,False,train
+2562,Not spam,False,train
+2563,Not spam,False,train
+2566,Not spam,False,train
+2567,Not spam,False,train
+2568,Not spam,False,train
+2569,Not spam,False,train
+2570,Not spam,False,train
+2571,Not spam,False,train
+2572,Not spam,False,train
+2573,Not spam,False,train
+2574,Spam,False,train
+2575,Spam,False,train
+2576,Not spam,False,test
+2577,Not spam,False,train
+2578,Not spam,False,train
+2579,Not spam,False,train
+2580,Not spam,False,train
+2581,Spam,False,train
+2582,Not spam,False,train
+2583,Spam,True,train
+2584,Not spam,False,test
+2585,Not spam,False,train
+2586,Not spam,False,train
+2587,Not spam,False,train
+2588,Not spam,False,train
+2589,Not spam,False,dev
+2590,Spam,False,dev
+2591,Not spam,False,train
+2592,Not spam,False,train
+2593,Not spam,False,train
+2594,Not spam,False,dev
+2595,Not spam,False,train
+2597,Not spam,False,train
+2598,Not spam,False,train
+2599,Not spam,False,train
+2600,Not spam,False,train
+2601,Not spam,False,train
+2602,Not spam,False,train
+2603,Not spam,False,dev
+2604,Not spam,False,train
+2605,Not spam,False,train
+2606,Not spam,False,train
+2607,Not spam,False,train
+2608,Not spam,False,train
+2609,Not spam,False,test
+2610,Not spam,False,train
+2612,Spam,False,train
+2613,Not spam,False,train
+2614,Not spam,False,dev
+2615,Not spam,False,train
+2616,Not spam,False,train
+2617,Not spam,False,test
+2619,Not spam,False,train
+2620,Spam,False,train
+2621,Not spam,False,train
+2622,Not spam,False,train
+2623,Not spam,False,train
+2624,Not spam,False,train
+2625,Not spam,False,test
+2626,Spam,True,test
+2627,Not spam,False,dev
+2628,Not spam,False,train
+2629,Not spam,False,dev
+2630,Not spam,False,test
+2631,Not spam,False,train
+2632,Spam,True,test
+2633,Not spam,False,train
+2634,Not spam,False,train
+2635,Not spam,False,test
+2636,Not spam,False,dev
+2637,Not spam,False,test
+2638,Not spam,False,train
+2639,Not spam,False,dev
+2640,Not spam,False,train
+2641,Not spam,False,train
+2642,Spam,True,test
+2643,Not spam,False,train
+2645,Not spam,False,train
+2647,Not spam,False,test
+2648,Not spam,False,test
+2649,Not spam,False,dev
+2650,Not spam,False,train
+2651,Not spam,False,train
+2652,Not spam,False,train
+2653,Not spam,False,test
+2654,Not spam,False,train
+2655,Not spam,False,dev
+2656,Not spam,False,train
+2657,Not spam,False,test
+2658,Not spam,False,dev
+2659,Not spam,False,train
+2661,Not spam,False,train
+2662,Not spam,False,train
+2663,Spam,False,test
+2664,Spam,True,dev
+2665,Not spam,False,dev
+2666,Not spam,False,train
+2667,Not spam,False,train
+2668,Not spam,False,train
+2669,Spam,False,train
+2670,Spam,True,train
+2671,Not spam,False,train
+2672,Not spam,False,train
+2673,Not spam,False,train
+2674,Not spam,False,train
+2675,Not spam,False,test
+2676,Not spam,False,train
+2677,Not spam,False,train
+2678,Not spam,False,train
+2679,Not spam,False,train
+2680,Spam,False,train
+2682,Not spam,False,train
+2683,Not spam,False,train
+2684,Not spam,False,dev
+2685,Not spam,False,train
+2686,Spam,True,train
+2687,Not spam,False,train
+2689,Not spam,False,train
+2690,Not spam,False,train
+2691,Spam,True,train
+2692,Not spam,False,train
+2693,Spam,True,train
+2694,Not spam,False,train
+2695,Not spam,False,dev
+2696,Not spam,False,test
+2697,Not spam,False,train
+2698,Not spam,False,dev
+2699,Spam,False,train
+2700,Not spam,False,train
+2701,Not spam,False,dev
+2702,Not spam,False,test
+2703,Not spam,False,train
+2704,Not spam,False,train
+2705,Spam,False,train
+2706,Not spam,False,train
+2707,Not spam,False,train
+2708,Spam,True,train
+2709,Not spam,False,train
+2710,Not spam,False,train
+2711,Spam,False,train
+2713,Not spam,False,dev
+2714,Not spam,False,dev
+2715,Not spam,False,train
+2716,Not spam,False,test
+2717,Not spam,False,dev
+2718,Not spam,False,train
+2720,Not spam,False,dev
+2722,Not spam,False,train
+2723,Not spam,False,dev
+2724,Not spam,False,train
+2725,Not spam,False,dev
+2726,Not spam,False,train
+2727,Not spam,False,train
+2729,Spam,False,train
+2730,Spam,False,train
+2731,Not spam,False,train
+2732,Not spam,False,train
+2733,Not spam,False,test
+2734,Not spam,False,train
+2735,Not spam,False,train
+2736,Not spam,False,test
+2737,Not spam,False,train
+2738,Not spam,False,test
+2739,Not spam,False,test
+2741,Not spam,False,train
+2743,Not spam,False,train
+2744,Not spam,False,train
+2745,Not spam,False,test
+2746,Not spam,False,train
+2747,Not spam,False,train
+2748,Not spam,False,train
+2749,Not spam,False,train
+2750,Not spam,False,train
+2751,Not spam,False,train
+2752,Not spam,False,dev
+2753,Not spam,False,train
+2754,Not spam,False,train
+2755,Not spam,False,train
+2756,Not spam,False,train
+2757,Not spam,False,train
+2758,Not spam,False,dev
+2759,Not spam,False,train
+2760,Not spam,False,test
+2763,Not spam,False,train
+2765,Not spam,False,train
+2766,Not spam,False,train
+2767,Spam,False,dev
+2768,Not spam,False,dev
+2769,Not spam,False,train
+2770,Spam,True,train
+2771,Not spam,False,train
+2772,Not spam,False,train
+2773,Not spam,False,train
+2774,Spam,False,test
+2775,Not spam,False,train
+2776,Not spam,False,train
+2777,Not spam,False,train
+2778,Not spam,False,train
+2779,Spam,True,test
+2780,Not spam,False,train
+2781,Not spam,False,train
+2782,Not spam,False,train
+2783,Not spam,False,dev
+2784,Not spam,False,train
+2785,Not spam,False,train
+2786,Not spam,False,train
+2787,Not spam,False,train
+2788,Not spam,False,train
+2789,Not spam,False,dev
+2790,Not spam,False,dev
+2791,Spam,True,train
+2792,Not spam,False,test
+2793,Not spam,False,dev
+2794,Not spam,False,test
+2795,Not spam,False,train
+2796,Not spam,False,train
+2798,Not spam,False,train
+2800,Not spam,False,train
+2801,Not spam,False,train
+2802,Not spam,False,train
+2803,Not spam,False,train
+2804,Spam,False,train
+2805,Not spam,False,train
+2806,Not spam,False,train
+2807,Not spam,False,test
+2809,Not spam,False,train
+2810,Not spam,False,train
+2811,Not spam,False,dev
+2812,Not spam,False,train
+2814,Not spam,False,dev
+2815,Not spam,False,train
+2816,Not spam,False,train
+2817,Not spam,False,train
+2818,Spam,False,train
+2819,Not spam,False,train
+2820,Not spam,False,train
+2821,Spam,False,test
+2822,Not spam,False,test
+2823,Spam,False,test
+2824,Not spam,False,train
+2825,Not spam,False,train
+2826,Spam,True,test
+2828,Not spam,False,train
+2830,Spam,False,train
+2832,Not spam,False,train
+2833,Not spam,False,dev
+2834,Spam,True,train
+2835,Not spam,False,train
+2836,Not spam,False,train
+2837,Not spam,False,dev
+2838,Not spam,False,train
+2839,Not spam,False,test
+2840,Not spam,False,train
+2841,Not spam,False,train
+2842,Not spam,False,train
+2844,Not spam,False,test
+2845,Not spam,False,train
+2846,Not spam,False,train
+2847,Not spam,False,train
+2848,Spam,True,test
+2850,Spam,False,train
+2851,Not spam,False,train
+2852,Not spam,False,test
+2853,Not spam,False,test
+2854,Not spam,False,train
+2855,Not spam,False,train
+2856,Not spam,False,train
+2857,Not spam,False,train
+2858,Not spam,True,dev
+2859,Not spam,False,train
+2861,Not spam,False,train
+2862,Not spam,False,train
+2863,Spam,False,train
+2864,Not spam,False,train
+2865,Not spam,False,train
+2867,Not spam,False,train
+2868,Not spam,False,test
+2869,Not spam,False,train
+2871,Spam,False,train
+2872,Not spam,False,train
+2873,Not spam,False,train
+2874,Not spam,False,train
+2875,Not spam,False,train
+2876,Not spam,False,train
+2877,Not spam,False,test
+2878,Not spam,False,train
+2879,Spam,True,train
+2880,Not spam,False,dev
+2882,Not spam,False,test
+2883,Not spam,False,train
+2884,Not spam,False,train
+2885,Not spam,False,train
+2886,Not spam,False,train
+2887,Not spam,False,dev
+2888,Not spam,False,train
+2889,Not spam,False,train
+2890,Not spam,False,train
+2891,Not spam,False,test
+2892,Not spam,False,train
+2893,Not spam,False,train
+2894,Not spam,False,train
+2895,Not spam,False,train
+2896,Not spam,False,train
+2897,Spam,True,train
+2898,Not spam,False,train
+2900,Not spam,False,test
+2901,Not spam,False,train
+2902,Spam,False,dev
+2903,Not spam,False,train
+2904,Not spam,False,train
+2905,Not spam,False,train
+2906,Not spam,False,train
+2907,Not spam,False,dev
+2908,Not spam,False,train
+2909,Not spam,False,train
+2910,Spam,True,dev
+2911,Not spam,False,train
+2913,Not spam,False,train
+2914,Not spam,False,train
+2915,Spam,True,train
+2916,Not spam,False,train
+2917,Not spam,False,train
+2918,Not spam,False,train
+2919,Not spam,False,train
+2920,Not spam,False,train
+2921,Not spam,False,dev
+2922,Not spam,False,train
+2923,Not spam,False,test
+2924,Not spam,False,dev
+2925,Not spam,False,train
+2926,Not spam,False,test
+2927,Not spam,False,train
+2928,Not spam,False,train
+2929,Not spam,False,dev
+2930,Not spam,False,train
+2931,Not spam,False,train
+2932,Not spam,False,dev
+2933,Not spam,False,train
+2934,Not spam,False,dev
+2935,Not spam,False,train
+2936,Not spam,False,train
+2937,Not spam,False,dev
+2938,Not spam,False,train
+2939,Not spam,False,train
+2940,Not spam,False,train
+2941,Spam,False,test
+2942,Not spam,False,train
+2943,Not spam,False,train
+2945,Spam,False,train
+2946,Not spam,False,train
+2947,Not spam,False,train
+2948,Not spam,False,train
+2949,Not spam,False,test
+2950,Not spam,False,test
+2951,Not spam,False,train
+2952,Not spam,True,dev
+2953,Not spam,False,dev
+2954,Spam,True,test
+2955,Not spam,False,train
+2956,Not spam,False,train
+2957,Not spam,False,test
+2958,Not spam,False,train
+2960,Not spam,False,test
+2961,Not spam,False,dev
+2962,Not spam,False,test
+2963,Not spam,False,train
+2964,Not spam,False,dev
+2965,Spam,False,train
+2966,Not spam,False,train
+2967,Not spam,False,train
+2969,Not spam,False,train
+2970,Not spam,False,train
+2971,Not spam,False,train
+2973,Not spam,False,train
+2974,Not spam,False,train
+2975,Not spam,False,train
+2976,Not spam,False,train
+2977,Not spam,False,train
+2978,Not spam,False,train
+2979,Not spam,False,train
+2980,Spam,True,train
+2981,Not spam,False,dev
+2983,Not spam,False,train
+2984,Not spam,False,train
+2985,Not spam,False,train
+2986,Not spam,False,train
+2987,Spam,True,test
+2988,Not spam,False,train
+2989,Not spam,False,train
+2990,Spam,True,train
+2993,Not spam,False,train
+2994,Not spam,False,test
+2995,Not spam,False,train
+2996,Not spam,False,train
+2997,Not spam,False,train
+2998,Not spam,False,train
+2999,Not spam,False,train
+3000,Not spam,False,train
+3001,Not spam,False,train
+3002,Spam,True,dev
+3003,Not spam,False,train
+3006,Not spam,False,dev
+3007,Not spam,False,train
+3008,Not spam,False,train
+3010,Spam,False,dev
+3011,Not spam,False,train
+3012,Not spam,False,train
+3013,Not spam,False,train
+3014,Spam,True,train
+3015,Not spam,False,dev
+3016,Not spam,False,dev
+3017,Not spam,False,dev
+3018,Not spam,False,train
+3019,Not spam,False,train
+3020,Not spam,False,test
+3021,Not spam,False,train
+3022,Not spam,False,train
+3023,Not spam,False,train
+3024,Not spam,False,train
+3025,Not spam,False,dev
+3026,Not spam,False,test
+3027,Not spam,False,dev
+3028,Not spam,False,train
+3029,Not spam,False,train
+3030,Not spam,False,test
+3031,Not spam,False,dev
+3032,Not spam,False,train
+3033,Not spam,False,train
+3034,Not spam,False,train
+3035,Not spam,False,train
+3037,Not spam,False,test
+3038,Not spam,False,test
+3039,Not spam,False,train
+3041,Not spam,False,train
+3042,Not spam,False,train
+3043,Not spam,False,train
+3044,Not spam,False,train
+3045,Not spam,False,train
+3046,Not spam,False,train
+3047,Not spam,False,train
+3048,Not spam,False,train
+3049,Not spam,False,train
+3050,Not spam,False,train
+3052,Not spam,False,dev
+3053,Not spam,False,train
+3054,Not spam,False,dev
+3055,Not spam,False,train
+3057,Not spam,False,train
+3058,Not spam,False,test
+3059,Spam,False,train
+3060,Not spam,False,train
+3061,Not spam,False,train
+3062,Not spam,False,train
+3063,Not spam,False,train
+3064,Spam,False,test
+3065,Not spam,False,train
+3066,Not spam,False,train
+3067,Spam,False,train
+3068,Not spam,False,test
+3069,Not spam,False,train
+3070,Not spam,False,train
+3071,Not spam,False,test
+3072,Not spam,False,train
+3073,Not spam,False,train
+3074,Not spam,False,test
+3075,Not spam,False,train
+3076,Not spam,False,train
+3077,Not spam,False,train
+3078,Not spam,False,dev
+3079,Not spam,False,dev
+3080,Not spam,False,test
+3081,Not spam,False,dev
+3082,Not spam,False,train
+3083,Not spam,False,train
+3084,Not spam,False,train
+3085,Not spam,False,train
+3086,Not spam,False,test
+3087,Not spam,False,train
+3088,Not spam,False,train
+3089,Not spam,False,train
+3091,Not spam,False,train
+3092,Spam,True,train
+3093,Not spam,False,test
+3094,Not spam,False,train
+3095,Not spam,False,dev
+3096,Not spam,False,train
+3097,Not spam,False,train
+3098,Not spam,False,train
+3099,Not spam,False,test
+3100,Not spam,False,train
+3102,Not spam,False,train
+3103,Not spam,False,dev
+3104,Not spam,False,train
+3105,Not spam,False,train
+3106,Not spam,False,train
+3107,Not spam,False,train
+3108,Not spam,False,test
+3109,Not spam,False,train
+3110,Not spam,False,train
+3111,Spam,False,train
+3112,Not spam,False,train
+3113,Not spam,False,train
+3114,Not spam,False,dev
+3115,Not spam,False,train
+3116,Not spam,False,dev
+3117,Not spam,False,test
+3118,Not spam,True,train
+3119,Not spam,False,train
+3120,Not spam,False,train
+3121,Not spam,False,train
+3122,Not spam,False,train
+3124,Not spam,False,train
+3126,Spam,True,train
+3127,Not spam,False,train
+3128,Not spam,False,train
+3129,Not spam,False,train
+3130,Not spam,False,train
+3131,Not spam,False,train
+3132,Spam,False,train
+3133,Not spam,False,train
+3134,Not spam,False,train
+3135,Not spam,False,test
+3137,Not spam,False,dev
+3138,Not spam,False,test
+3139,Not spam,False,train
+3140,Not spam,False,train
+3141,Spam,True,dev
+3142,Not spam,False,train
+3143,Not spam,False,train
+3144,Not spam,False,train
+3145,Not spam,False,train
+3146,Not spam,False,train
+3147,Not spam,False,dev
+3148,Not spam,False,train
+3149,Not spam,False,train
+3150,Not spam,False,dev
+3151,Not spam,False,train
+3152,Not spam,False,test
+3154,Not spam,False,train
+3157,Not spam,False,train
+3158,Not spam,False,train
+3159,Not spam,False,train
+3160,Not spam,False,dev
+3161,Not spam,False,test
+3162,Not spam,False,test
+3163,Not spam,False,train
+3164,Spam,True,train
+3166,Not spam,False,test
+3169,Not spam,False,train
+3170,Not spam,False,train
+3171,Not spam,False,dev
+3172,Not spam,False,train
+3173,Not spam,False,test
+3174,Spam,True,train
+3175,Not spam,False,train
+3177,Not spam,False,train
+3178,Not spam,False,test
+3179,Not spam,False,dev
+3180,Not spam,False,train
+3181,Not spam,False,train
+3182,Not spam,False,train
+3183,Not spam,False,train
+3184,Not spam,False,train
+3185,Not spam,False,train
+3186,Not spam,False,train
+3187,Not spam,False,train
+3189,Spam,True,test
+3190,Not spam,False,train
+3191,Not spam,False,train
+3192,Spam,True,train
+3193,Not spam,False,train
+3194,Not spam,False,test
+3195,Not spam,False,train
+3196,Not spam,False,train
+3197,Not spam,False,train
+3198,Not spam,False,train
+3199,Not spam,False,train
+3200,Not spam,False,train
+3201,Not spam,False,train
+3203,Not spam,False,train
+3204,Not spam,False,dev
+3205,Not spam,False,train
+3206,Not spam,False,train
+3207,Not spam,False,test
+3208,Not spam,False,train
+3209,Not spam,False,test
+3210,Not spam,False,train
+3211,Not spam,False,dev
+3212,Not spam,False,train
+3213,Not spam,False,train
+3214,Not spam,False,train
+3215,Not spam,False,test
+3216,Not spam,False,train
+3217,Spam,True,train
+3218,Not spam,False,train
+3219,Not spam,False,train
+3220,Not spam,False,train
+3221,Not spam,False,train
+3222,Spam,False,train
+3223,Not spam,False,train
+3224,Not spam,False,test
+3225,Not spam,False,train
+3226,Not spam,False,train
+3227,Not spam,False,train
+3230,Spam,False,dev
+3231,Not spam,False,dev
+3232,Not spam,False,test
+3233,Not spam,False,train
+3234,Not spam,False,train
+3235,Not spam,False,test
+3236,Not spam,False,train
+3237,Not spam,False,train
+3238,Not spam,False,train
+3239,Not spam,False,train
+3240,Not spam,False,dev
+3241,Not spam,False,train
+3242,Not spam,False,train
+3244,Not spam,False,train
+3245,Not spam,False,dev
+3246,Not spam,False,test
+3247,Not spam,False,train
+3248,Not spam,False,train
+3249,Not spam,False,train
+3251,Not spam,False,train
+3252,Not spam,False,train
+3253,Not spam,False,train
+3254,Not spam,False,train
+3255,Not spam,False,train
+3256,Not spam,False,dev
+3257,Not spam,False,train
+3258,Not spam,False,test
+3259,Not spam,False,train
+3260,Spam,True,test
+3261,Not spam,False,train
+3262,Not spam,False,train
+3263,Not spam,False,train
+3264,Not spam,False,dev
+3265,Not spam,False,train
+3266,Spam,True,train
+3267,Not spam,False,train
+3268,Not spam,False,dev
+3269,Not spam,False,train
+3270,Not spam,False,train
+3271,Not spam,False,train
+3273,Not spam,False,train
+3274,Not spam,False,train
+3275,Not spam,False,train
+3276,Not spam,False,dev
+3277,Not spam,False,train
+3278,Not spam,False,train
+3279,Not spam,False,train
+3281,Not spam,False,train
+3282,Not spam,False,train
+3283,Not spam,False,train
+3284,Not spam,False,train
+3285,Not spam,False,dev
+3286,Not spam,False,train
+3287,Not spam,False,train
+3288,Not spam,False,train
+3289,Spam,False,train
+3290,Spam,False,test
+3291,Not spam,False,train
+3292,Not spam,False,train
+3293,Not spam,False,train
+3294,Not spam,False,train
+3295,Not spam,False,train
+3296,Not spam,False,train
+3297,Not spam,False,train
+3298,Spam,False,train
+3299,Spam,True,dev
+3301,Not spam,False,dev
+3302,Spam,False,train
+3303,Not spam,False,train
+3304,Not spam,False,train
+3305,Not spam,False,test
+3306,Not spam,False,test
+3307,Not spam,False,train
+3308,Not spam,False,train
+3309,Not spam,False,train
+3310,Not spam,False,train
+3312,Not spam,False,train
+3313,Not spam,False,test
+3314,Not spam,False,train
+3315,Not spam,False,train
+3317,Not spam,False,train
+3318,Not spam,False,train
+3319,Not spam,False,train
+3320,Not spam,False,test
+3321,Not spam,False,train
+3322,Not spam,False,train
+3323,Not spam,False,dev
+3325,Not spam,False,train
+3326,Not spam,False,dev
+3327,Not spam,False,dev
+3328,Not spam,False,train
+3329,Not spam,False,test
+3330,Not spam,False,train
+3331,Not spam,False,train
+3332,Not spam,False,train
+3333,Not spam,True,test
+3334,Spam,False,test
+3335,Not spam,False,train
+3336,Not spam,False,train
+3337,Not spam,False,dev
+3338,Not spam,False,train
+3339,Not spam,False,dev
+3340,Not spam,False,train
+3341,Not spam,False,test
+3342,Not spam,False,train
+3343,Not spam,False,train
+3344,Not spam,False,test
+3345,Not spam,False,test
+3346,Not spam,False,dev
+3347,Not spam,False,train
+3348,Not spam,False,dev
+3350,Not spam,False,test
+3351,Not spam,False,train
+3352,Not spam,False,train
+3353,Not spam,False,train
+3354,Not spam,False,dev
+3355,Not spam,False,train
+3356,Not spam,False,dev
+3357,Not spam,False,train
+3358,Not spam,False,train
+3360,Spam,False,train
+3361,Not spam,False,train
+3362,Not spam,False,test
+3363,Not spam,False,test
+3364,Not spam,True,train
+3365,Not spam,False,train
+3367,Not spam,False,train
+3368,Not spam,False,train
+3369,Not spam,False,train
+3370,Not spam,False,dev
+3371,Not spam,False,test
+3372,Not spam,False,test
+3373,Not spam,False,train
+3374,Not spam,False,test
+3375,Not spam,False,test
+3376,Not spam,False,dev
+3377,Not spam,False,train
+3378,Not spam,False,test
+3379,Not spam,False,dev
+3380,Not spam,False,test
+3381,Not spam,False,train
+3382,Spam,False,test
+3383,Not spam,False,train
+3384,Not spam,False,train
+3385,Spam,True,train
+3386,Not spam,False,train
+3387,Not spam,False,test
+3388,Not spam,False,test
+3389,Not spam,False,dev
+3390,Not spam,False,dev
+3391,Spam,False,train
+3393,Not spam,False,train
+3395,Not spam,False,train
+3396,Not spam,False,train
+3397,Spam,True,train
+3398,Not spam,False,train
+3399,Not spam,False,train
+3400,Not spam,False,train
+3402,Not spam,False,train
+3403,Not spam,False,train
+3405,Not spam,False,dev
+3406,Not spam,False,train
+3407,Not spam,False,train
+3409,Spam,True,train
+3410,Not spam,False,train
+3411,Not spam,False,train
+3412,Not spam,False,train
+3413,Not spam,False,test
+3414,Not spam,False,train
+3415,Not spam,False,train
+3417,Not spam,False,train
+3418,Not spam,False,dev
+3419,Spam,False,dev
+3420,Spam,True,train
+3421,Spam,True,train
+3422,Spam,False,train
+3423,Spam,True,train
+3424,Spam,True,train
+3425,Spam,False,test
+3426,Not spam,False,train
+3427,Not spam,False,train
+3428,Not spam,False,train
+3429,Not spam,False,train
+3430,Not spam,False,train
+3431,Not spam,False,train
+3432,Not spam,False,dev
+3433,Spam,False,test
+3434,Not spam,False,test
+3435,Not spam,False,train
+3436,Not spam,True,train
+3437,Not spam,True,dev
+3438,Not spam,False,train
+3439,Not spam,False,test
+3440,Not spam,False,train
+3441,Not spam,False,test
+3442,Spam,True,train
+3443,Spam,False,train
+3444,Not spam,False,train
+3445,Not spam,False,train
+3447,Not spam,False,test
+3448,Not spam,False,test
+3449,Not spam,False,train
+3450,Not spam,False,dev
+3451,Not spam,False,test
+3452,Not spam,False,train
+3453,Not spam,False,train
+3454,Not spam,False,train
+3456,Not spam,False,test
+3457,Not spam,False,train
+3459,Not spam,False,train
+3460,Spam,False,dev
+3461,Not spam,False,train
+3462,Not spam,False,train
+3463,Spam,False,train
+3464,Not spam,False,test
+3465,Not spam,False,train
+3466,Not spam,False,test
+3467,Not spam,False,train
+3469,Not spam,False,test
+3470,Not spam,False,train
+3472,Not spam,False,train
+3473,Not spam,False,test
+3474,Not spam,False,train
+3475,Not spam,False,train
+3477,Not spam,False,train
+3478,Not spam,False,dev
+3479,Not spam,False,train
+3480,Not spam,False,dev
+3481,Not spam,False,dev
+3482,Not spam,False,train
+3483,Spam,False,train
+3484,Not spam,False,test
+3485,Not spam,False,train
+3487,Not spam,False,train
+3488,Not spam,False,test
+3490,Not spam,False,train
+3491,Not spam,False,dev
+3493,Not spam,True,train
+3494,Not spam,False,train
+3495,Spam,False,test
+3496,Spam,True,train
+3497,Not spam,False,dev
+3498,Not spam,False,train
+3499,Not spam,False,train
+3500,Not spam,False,train
+3501,Spam,False,test
+3502,Not spam,False,train
+3503,Not spam,False,train
+3504,Not spam,True,train
+3505,Not spam,False,test
+3506,Not spam,False,train
+3507,Not spam,False,test
+3508,Not spam,False,train
+3509,Not spam,False,train
+3510,Not spam,False,train
+3511,Not spam,False,train
+3512,Not spam,False,test
+3513,Not spam,False,dev
+3514,Not spam,False,train
+3515,Not spam,False,train
+3516,Not spam,False,train
+3517,Not spam,False,train
+3518,Not spam,False,train
+3519,Not spam,False,dev
+3520,Not spam,False,test
+3521,Not spam,False,train
+3522,Not spam,False,test
+3523,Not spam,False,dev
+3524,Not spam,False,train
+3525,Not spam,False,train
+3526,Not spam,True,dev
+3527,Not spam,False,test
+3528,Not spam,False,train
+3529,Spam,True,train
+3530,Spam,False,dev
+3531,Not spam,False,dev
+3532,Not spam,False,train
+3533,Not spam,False,test
+3535,Not spam,False,train
+3536,Not spam,False,test
+3537,Not spam,False,train
+3538,Not spam,False,test
+3539,Not spam,False,train
+3540,Not spam,False,train
+3541,Not spam,False,train
+3542,Not spam,False,train
+3543,Not spam,False,train
+3544,Not spam,False,test
+3545,Not spam,False,train
+3546,Not spam,False,dev
+3547,Not spam,False,train
+3548,Spam,False,train
+3550,Not spam,False,train
+3551,Not spam,False,train
+3552,Not spam,False,train
+3553,Not spam,False,train
+3554,Not spam,False,train
+3555,Not spam,False,train
+3556,Spam,False,train
+3557,Not spam,False,test
+3558,Not spam,False,test
+3559,Not spam,False,dev
+3560,Spam,True,train
+3561,Not spam,False,dev
+3562,Spam,False,train
+3563,Not spam,False,train
+3564,Spam,False,train
+3565,Not spam,False,dev
+3566,Not spam,False,train
+3567,Not spam,False,train
+3568,Spam,True,train
+3569,Not spam,False,train
+3570,Not spam,False,test
+3571,Spam,True,train
+3572,Not spam,False,train
+3573,Not spam,False,train
+3574,Spam,False,test
+3575,Not spam,False,train
+3576,Not spam,False,train
+3577,Not spam,False,dev
+3578,Not spam,False,train
+3579,Not spam,False,dev
+3580,Not spam,False,train
+3581,Not spam,False,train
+3582,Not spam,False,test
+3583,Not spam,False,train
+3584,Not spam,False,dev
+3587,Spam,False,dev
+3588,Not spam,False,dev
+3589,Not spam,True,train
+3590,Not spam,False,dev
+3591,Not spam,False,train
+3592,Not spam,False,train
+3593,Not spam,False,dev
+3595,Spam,True,train
+3596,Not spam,False,dev
+3597,Not spam,False,train
+3598,Spam,True,train
+3599,Not spam,False,test
+3600,Not spam,False,train
+3601,Not spam,False,dev
+3602,Not spam,False,test
+3603,Not spam,False,train
+3604,Not spam,False,train
+3605,Not spam,False,dev
+3606,Not spam,False,train
+3607,Not spam,False,test
+3608,Not spam,False,train
+3609,Not spam,False,train
+3611,Not spam,False,train
+3612,Not spam,False,train
+3613,Not spam,False,test
+3614,Not spam,False,dev
+3615,Not spam,False,train
+3616,Not spam,False,test
+3617,Not spam,False,train
+3618,Not spam,False,train
+3619,Not spam,False,train
+3620,Spam,False,train
+3621,Not spam,False,train
+3622,Not spam,False,dev
+3623,Not spam,False,train
+3624,Not spam,False,train
+3626,Not spam,False,train
+3627,Not spam,False,test
+3630,Not spam,False,train
+3631,Spam,False,train
+3632,Not spam,False,train
+3633,Not spam,False,train
+3634,Not spam,False,train
+3635,Not spam,False,test
+3636,Not spam,False,train
+3637,Not spam,False,test
+3638,Not spam,False,test
+3639,Spam,False,test
+3640,Not spam,False,train
+3641,Not spam,False,test
+3642,Spam,False,dev
+3643,Not spam,False,train
+3644,Not spam,False,test
+3645,Not spam,False,train
+3646,Spam,False,train
+3647,Not spam,False,train
+3648,Not spam,False,test
+3650,Not spam,False,train
+3651,Not spam,False,train
+3652,Not spam,False,train
+3653,Not spam,False,train
+3654,Not spam,False,train
+3655,Not spam,False,train
+3656,Not spam,False,test
+3657,Not spam,False,dev
+3658,Not spam,True,train
+3659,Not spam,False,test
+3660,Not spam,False,train
+3661,Not spam,False,train
+3662,Not spam,False,dev
+3663,Not spam,False,train
+3664,Not spam,False,train
+3665,Not spam,False,train
+3666,Not spam,False,train
+3667,Not spam,False,train
+3668,Not spam,False,test
+3669,Not spam,False,train
+3670,Not spam,False,dev
+3671,Not spam,False,test
+3672,Not spam,False,dev
+3673,Not spam,False,test
+3674,Not spam,False,train
+3676,Not spam,False,train
+3677,Not spam,False,train
+3678,Not spam,False,test
+3679,Spam,True,dev
+3682,Not spam,False,test
+3683,Not spam,False,dev
+3684,Not spam,False,train
+3685,Not spam,False,train
+3686,Not spam,False,train
+3687,Not spam,False,train
+3688,Not spam,False,test
+3689,Not spam,False,train
+3690,Not spam,False,train
+3691,Not spam,False,dev
+3692,Not spam,True,train
+3694,Not spam,False,test
+3695,Not spam,False,train
+3696,Not spam,False,train
+3697,Not spam,False,train
+3698,Spam,True,dev
+3699,Not spam,False,train
+3700,Not spam,False,train
+3701,Not spam,False,test
+3702,Not spam,False,train
+3703,Not spam,False,train
+3704,Not spam,False,train
+3705,Not spam,False,train
+3706,Not spam,False,train
+3707,Not spam,False,train
+3708,Not spam,False,train
+3711,Not spam,False,train
+3712,Not spam,False,train
+3713,Not spam,False,train
+3714,Not spam,False,dev
+3715,Not spam,False,train
+3716,Not spam,False,dev
+3717,Not spam,False,train
+3718,Not spam,False,train
+3719,Not spam,False,train
+3720,Spam,False,train
+3721,Not spam,False,dev
+3722,Not spam,False,train
+3723,Not spam,False,train
+3724,Not spam,False,train
+3725,Spam,False,train
+3726,Not spam,False,train
+3727,Not spam,True,train
+3728,Not spam,False,train
+3729,Not spam,False,test
+3731,Not spam,False,test
+3732,Not spam,False,train
+3734,Not spam,False,train
+3735,Not spam,False,dev
+3736,Not spam,False,train
+3737,Not spam,False,train
+3738,Not spam,False,train
+3739,Not spam,False,train
+3740,Not spam,False,train
+3742,Spam,False,train
+3743,Not spam,False,train
+3744,Not spam,False,dev
+3745,Not spam,False,test
+3746,Not spam,False,dev
+3747,Not spam,False,dev
+3748,Not spam,False,train
+3749,Not spam,False,train
+3750,Spam,False,test
+3751,Not spam,False,train
+3752,Not spam,False,train
+3753,Not spam,False,train
+3754,Not spam,False,train
+3756,Not spam,False,train
+3759,Not spam,False,train
+3760,Not spam,False,train
+3761,Not spam,False,train
+3762,Not spam,False,test
+3764,Not spam,False,dev
+3765,Not spam,False,train
+3766,Spam,False,train
+3767,Not spam,False,train
+3768,Not spam,True,dev
+3769,Not spam,False,train
+3771,Not spam,False,train
+3772,Not spam,False,train
+3773,Not spam,False,dev
+3774,Not spam,False,train
+3775,Not spam,False,train
+3777,Not spam,False,dev
+3778,Spam,False,train
+3779,Not spam,False,train
+3780,Spam,True,train
+3781,Not spam,False,train
+3782,Not spam,False,train
+3783,Not spam,False,test
+3784,Not spam,False,train
+3785,Not spam,False,train
+3786,Not spam,False,train
+3788,Not spam,False,train
+3789,Spam,False,test
+3790,Not spam,False,train
+3791,Not spam,False,train
+3792,Spam,False,test
+3793,Not spam,False,dev
+3794,Not spam,False,train
+3795,Not spam,False,train
+3796,Not spam,False,dev
+3797,Not spam,False,test
+3798,Not spam,False,test
+3800,Not spam,False,dev
+3801,Spam,True,test
+3802,Not spam,False,train
+3803,Not spam,False,test
+3804,Not spam,False,test
+3805,Not spam,False,train
+3806,Not spam,False,train
+3807,Spam,True,train
+3808,Not spam,False,train
+3809,Not spam,False,train
+3810,Not spam,False,train
+3811,Not spam,False,train
+3812,Not spam,False,test
+3813,Not spam,False,dev
+3814,Not spam,False,dev
+3815,Not spam,False,train
+3816,Not spam,False,train
+3817,Not spam,False,test
+3818,Not spam,False,test
+3819,Spam,True,train
+3820,Not spam,False,train
+3821,Not spam,False,train
+3822,Not spam,False,train
+3823,Not spam,False,train
+3824,Not spam,False,train
+3825,Not spam,False,test
+3826,Not spam,False,dev
+3827,Not spam,False,train
+3828,Spam,False,dev
+3829,Not spam,False,train
+3830,Not spam,False,train
+3831,Not spam,False,train
+3832,Not spam,True,train
+3835,Not spam,False,train
+3836,Not spam,False,dev
+3837,Not spam,False,dev
+3838,Not spam,False,train
+3839,Not spam,False,train
+3840,Not spam,False,dev
+3841,Not spam,False,train
+3842,Not spam,False,dev
+3843,Not spam,False,train
+3844,Not spam,False,test
+3845,Not spam,False,train
+3846,Not spam,False,test
+3847,Not spam,False,dev
+3849,Not spam,False,train
+3850,Not spam,False,dev
+3851,Not spam,False,dev
+3852,Not spam,False,train
+3853,Not spam,False,train
+3854,Not spam,False,train
+3855,Not spam,True,train
+3856,Spam,True,train
+3857,Not spam,False,test
+3858,Not spam,False,train
+3859,Not spam,False,train
+3861,Not spam,False,train
+3862,Spam,True,train
+3863,Not spam,False,test
+3864,Spam,False,dev
+3865,Not spam,False,train
+3866,Not spam,False,dev
+3867,Not spam,False,train
+3868,Not spam,False,train
+3869,Not spam,False,train
+3870,Not spam,False,train
+3871,Not spam,False,train
+3872,Not spam,False,train
+3873,Not spam,False,dev
+3874,Not spam,False,test
+3875,Not spam,False,train
+3876,Not spam,False,test
+3877,Not spam,False,train
+3878,Not spam,False,dev
+3879,Not spam,False,train
+3880,Not spam,False,dev
+3881,Not spam,False,train
+3884,Not spam,False,train
+3885,Spam,False,test
+3886,Not spam,False,train
+3887,Not spam,False,train
+3888,Not spam,False,train
+3889,Not spam,False,train
+3890,Not spam,False,train
+3891,Spam,True,dev
+3892,Not spam,False,train
+3893,Spam,True,train
+3894,Not spam,False,train
+3895,Spam,False,train
+3896,Not spam,False,train
+3897,Spam,True,train
+3898,Not spam,False,train
+3900,Not spam,False,test
+3902,Not spam,False,train
+3903,Not spam,False,train
+3904,Not spam,False,train
+3905,Spam,False,train
+3906,Spam,False,test
+3907,Not spam,False,dev
+3908,Not spam,False,test
+3909,Not spam,False,train
+3910,Not spam,False,test
+3911,Not spam,False,dev
+3912,Not spam,False,test
+3914,Not spam,False,test
+3916,Not spam,False,dev
+3917,Not spam,False,train
+3918,Not spam,False,test
+3919,Not spam,False,train
+3920,Not spam,False,train
+3921,Spam,True,train
+3923,Not spam,False,dev
+3924,Not spam,False,train
+3925,Not spam,False,train
+3926,Not spam,False,train
+3927,Not spam,False,test
+3928,Not spam,False,dev
+3929,Not spam,False,train
+3930,Not spam,False,train
+3931,Not spam,False,train
+3932,Not spam,False,train
+3933,Not spam,False,train
+3934,Not spam,False,train
+3935,Not spam,False,train
+3936,Not spam,False,train
+3937,Not spam,False,train
+3938,Not spam,False,train
+3939,Not spam,False,train
+3940,Not spam,False,train
+3941,Not spam,False,test
+3942,Spam,True,train
+3943,Not spam,False,test
+3945,Not spam,False,train
+3946,Not spam,False,train
+3947,Not spam,False,train
+3948,Not spam,False,test
+3949,Not spam,False,train
+3950,Not spam,False,dev
+3951,Not spam,True,train
+3952,Not spam,False,train
+3953,Not spam,False,train
+3954,Spam,True,train
+3955,Not spam,False,train
+3956,Not spam,False,train
+3957,Not spam,False,train
+3958,Not spam,False,dev
+3959,Not spam,False,train
+3960,Not spam,False,train
+3961,Not spam,False,train
+3962,Not spam,False,train
+3963,Spam,False,train
+3964,Not spam,False,train
+3965,Not spam,False,train
+3967,Not spam,False,test
+3968,Spam,True,train
+3969,Not spam,False,test
+3970,Not spam,False,train
+3971,Not spam,False,train
+3972,Spam,True,train
+3973,Not spam,False,train
+3974,Not spam,False,train
+3975,Not spam,False,train
+3976,Not spam,False,test
+3977,Not spam,False,train
+3979,Not spam,False,train
+3980,Not spam,False,train
+3981,Spam,False,train
+3982,Not spam,False,train
+3983,Not spam,False,dev
+3984,Not spam,False,train
+3985,Not spam,False,test
+3986,Not spam,False,test
+3988,Spam,False,train
+3989,Not spam,False,train
+3990,Not spam,False,train
+3991,Spam,False,train
+3993,Not spam,False,dev
+3994,Not spam,False,train
+3995,Not spam,False,train
+3996,Not spam,False,train
+3997,Not spam,False,train
+3998,Spam,False,train
+3999,Spam,True,train
+4000,Not spam,False,train
+4001,Spam,True,train
+4002,Not spam,False,train
+4003,Not spam,False,train
+4005,Not spam,False,test
+4006,Not spam,False,train
+4007,Not spam,False,train
+4008,Not spam,False,dev
+4009,Not spam,True,test
+4010,Not spam,False,train
+4013,Not spam,False,train
+4015,Not spam,False,dev
+4016,Spam,False,train
+4017,Not spam,False,train
+4018,Not spam,False,train
+4019,Not spam,False,train
+4020,Spam,False,train
+4021,Not spam,False,train
+4022,Not spam,False,train
+4023,Not spam,False,test
+4024,Not spam,False,train
+4025,Not spam,False,dev
+4026,Not spam,False,dev
+4027,Not spam,False,train
+4028,Not spam,False,train
+4029,Not spam,False,dev
+4030,Not spam,False,dev
+4031,Not spam,False,dev
+4032,Not spam,False,train
+4033,Not spam,False,train
+4034,Not spam,False,train
+4035,Not spam,False,train
+4036,Spam,False,train
+4037,Not spam,False,train
+4038,Not spam,False,dev
+4039,Not spam,False,train
+4041,Not spam,False,train
+4043,Not spam,False,train
+4044,Not spam,False,train
+4045,Not spam,False,train
+4046,Not spam,False,train
+4047,Spam,True,train
+4048,Spam,False,train
+4049,Not spam,False,dev
+4050,Not spam,False,train
+4051,Not spam,False,dev
+4052,Not spam,False,train
+4053,Not spam,False,train
+4054,Not spam,False,dev
+4055,Not spam,False,dev
+4056,Not spam,False,train
+4057,Not spam,False,train
+4058,Not spam,False,train
+4059,Not spam,False,train
+4060,Spam,True,train
+4061,Spam,True,dev
+4062,Not spam,True,train
+4063,Not spam,False,train
+4064,Not spam,False,test
+4065,Not spam,False,train
+4066,Not spam,False,train
+4067,Not spam,False,train
+4068,Spam,False,train
+4069,Spam,False,train
+4070,Not spam,False,train
+4071,Not spam,False,dev
+4072,Not spam,False,dev
+4073,Spam,False,dev
+4074,Not spam,False,train
+4075,Not spam,False,train
+4077,Spam,True,train
+4078,Not spam,False,train
+4079,Not spam,False,train
+4080,Not spam,False,test
+4081,Not spam,False,train
+4082,Not spam,False,train
+4084,Not spam,False,train
+4085,Not spam,False,train
+4086,Spam,True,test
+4087,Not spam,False,train
+4088,Spam,False,test
+4089,Not spam,False,test
+4090,Not spam,False,train
+4091,Spam,True,train
+4092,Not spam,False,train
+4093,Not spam,False,train
+4094,Not spam,False,train
+4095,Not spam,False,dev
+4096,Not spam,False,dev
+4097,Not spam,False,train
+4098,Not spam,False,train
+4099,Not spam,False,dev
+4100,Not spam,False,train
+4101,Not spam,False,train
+4102,Spam,False,train
+4105,Not spam,False,train
+4106,Not spam,False,train
+4107,Not spam,False,train
+4108,Spam,False,train
+4109,Not spam,False,dev
+4110,Not spam,False,test
+4111,Not spam,False,train
+4112,Spam,True,train
+4113,Not spam,False,train
+4114,Not spam,False,train
+4115,Not spam,False,train
+4116,Not spam,False,test
+4118,Not spam,False,train
+4119,Not spam,False,dev
+4120,Not spam,False,test
+4121,Not spam,False,train
+4122,Not spam,False,test
+4123,Not spam,False,train
+4124,Not spam,False,train
+4125,Not spam,False,train
+4126,Not spam,False,train
+4127,Spam,False,train
+4130,Not spam,False,train
+4131,Not spam,False,train
+4132,Not spam,False,test
+4133,Not spam,False,train
+4134,Spam,False,train
+4135,Not spam,False,test
+4136,Not spam,False,test
+4137,Not spam,False,train
+4138,Not spam,False,train
+4139,Not spam,False,train
+4141,Not spam,False,train
+4142,Not spam,False,train
+4143,Not spam,False,train
+4144,Spam,False,train
+4145,Not spam,False,train
+4146,Not spam,False,test
+4147,Not spam,False,test
+4148,Not spam,False,dev
+4149,Spam,True,train
+4150,Not spam,False,dev
+4151,Not spam,True,train
+4152,Not spam,False,test
+4153,Not spam,False,dev
+4155,Not spam,False,train
+4156,Spam,True,train
+4157,Not spam,False,train
+4158,Not spam,False,test
+4159,Not spam,False,train
+4160,Not spam,False,train
+4161,Not spam,False,train
+4163,Not spam,False,train
+4164,Not spam,False,test
+4165,Not spam,False,train
+4166,Spam,True,dev
+4167,Not spam,False,train
+4168,Not spam,False,train
+4170,Not spam,False,train
+4171,Not spam,False,train
+4172,Not spam,False,test
+4174,Not spam,False,test
+4175,Not spam,False,dev
+4176,Not spam,False,train
+4177,Not spam,False,dev
+4178,Not spam,False,train
+4179,Not spam,False,train
+4180,Not spam,False,test
+4181,Not spam,False,train
+4182,Not spam,False,train
+4183,Spam,False,train
+4185,Not spam,False,train
+4186,Not spam,False,train
+4187,Not spam,False,test
+4188,Not spam,False,test
+4189,Not spam,False,train
+4190,Not spam,False,test
+4192,Not spam,False,train
+4193,Not spam,False,train
+4194,Not spam,False,train
+4195,Not spam,False,test
+4197,Not spam,False,train
+4200,Spam,False,dev
+4202,Not spam,False,train
+4203,Not spam,False,train
+4204,Not spam,False,train
+4205,Not spam,False,train
+4206,Spam,False,train
+4207,Not spam,False,train
+4208,Not spam,False,train
+4209,Not spam,False,train
+4210,Not spam,False,dev
+4211,Not spam,False,train
+4212,Not spam,False,dev
+4213,Spam,False,train
+4214,Not spam,False,train
+4215,Not spam,False,dev
+4216,Not spam,False,test
+4217,Not spam,False,train
+4218,Not spam,False,dev
+4219,Not spam,False,test
+4220,Not spam,False,train
+4221,Not spam,True,train
+4223,Not spam,False,train
+4224,Not spam,False,train
+4225,Not spam,False,train
+4226,Not spam,False,train
+4227,Not spam,False,train
+4228,Not spam,False,train
+4229,Not spam,False,dev
+4230,Not spam,False,train
+4231,Not spam,False,test
+4232,Not spam,False,train
+4234,Not spam,False,train
+4236,Spam,True,train
+4238,Not spam,False,train
+4239,Not spam,False,dev
+4240,Not spam,False,train
+4241,Not spam,False,test
+4242,Not spam,False,dev
+4243,Spam,True,train
+4245,Not spam,False,train
+4246,Not spam,False,train
+4247,Not spam,False,test
+4248,Spam,False,train
+4249,Spam,False,train
+4250,Not spam,False,test
+4251,Not spam,False,train
+4252,Not spam,False,train
+4253,Not spam,False,train
+4254,Not spam,False,train
+4255,Not spam,False,train
+4256,Spam,False,train
+4257,Not spam,False,train
+4258,Spam,False,train
+4261,Not spam,False,train
+4262,Not spam,False,train
+4263,Not spam,False,train
+4264,Not spam,False,train
+4265,Not spam,False,train
+4266,Not spam,False,train
+4267,Not spam,False,train
+4268,Not spam,False,train
+4269,Not spam,False,train
+4270,Not spam,False,train
+4271,Not spam,False,train
+4272,Spam,False,train
+4273,Not spam,False,train
+4274,Not spam,False,train
+4275,Not spam,False,train
+4276,Not spam,False,dev
+4277,Not spam,False,dev
+4278,Not spam,False,dev
+4279,Not spam,False,train
+4280,Spam,False,train
+4282,Not spam,False,train
+4283,Not spam,False,train
+4284,Not spam,False,dev
+4285,Not spam,False,train
+4286,Not spam,False,train
+4287,Not spam,False,train
+4288,Not spam,False,train
+4289,Not spam,False,train
+4290,Not spam,False,train
+4291,Not spam,False,train
+4292,Not spam,False,train
+4293,Not spam,False,train
+4294,Not spam,False,train
+4295,Spam,False,train
+4297,Spam,False,train
+4298,Spam,True,train
+4301,Not spam,False,test
+4302,Not spam,False,train
+4303,Not spam,True,train
+4304,Not spam,True,train
+4305,Not spam,False,test
+4306,Not spam,False,test
+4307,Not spam,False,dev
+4308,Not spam,False,train
+4309,Not spam,False,train
+4310,Not spam,False,train
+4312,Not spam,False,dev
+4313,Not spam,False,dev
+4314,Not spam,False,dev
+4315,Not spam,False,test
+4316,Not spam,False,dev
+4317,Not spam,False,train
+4318,Not spam,False,train
+4319,Not spam,False,train
+4320,Not spam,False,train
+4321,Not spam,False,train
+4322,Not spam,False,train
+4323,Not spam,False,dev
+4324,Not spam,False,train
+4326,Not spam,False,test
+4327,Not spam,False,train
+4328,Not spam,False,train
+4329,Spam,False,train
+4330,Not spam,False,train
+4331,Not spam,False,test
+4332,Not spam,False,dev
+4333,Not spam,False,train
+4334,Not spam,False,train
+4335,Not spam,False,dev
+4336,Not spam,False,train
+4337,Not spam,False,train
+4338,Not spam,False,train
+4339,Not spam,False,train
+4340,Not spam,False,train
+4341,Not spam,False,train
+4342,Not spam,False,test
+4343,Not spam,False,dev
+4344,Not spam,False,dev
+4345,Not spam,False,train
+4346,Not spam,False,test
+4347,Not spam,False,train
+4349,Not spam,False,train
+4350,Not spam,False,test
+4351,Not spam,False,test
+4353,Not spam,False,train
+4354,Not spam,False,train
+4355,Spam,False,train
+4357,Not spam,False,dev
+4358,Not spam,False,train
+4359,Spam,False,train
+4360,Not spam,False,train
+4361,Not spam,False,dev
+4362,Not spam,False,train
+4363,Not spam,False,train
+4364,Not spam,False,train
+4365,Not spam,False,train
+4366,Not spam,False,test
+4367,Not spam,False,train
+4368,Not spam,False,dev
+4369,Not spam,False,train
+4370,Not spam,False,train
+4371,Spam,False,train
+4373,Spam,False,train
+4374,Not spam,False,dev
+4375,Not spam,False,train
+4376,Spam,False,test
+4377,Spam,True,train
+4378,Not spam,False,test
+4379,Not spam,False,train
+4380,Not spam,False,train
+4381,Not spam,False,train
+4382,Not spam,False,train
+4383,Not spam,False,train
+4384,Not spam,False,train
+4385,Not spam,False,train
+4386,Spam,True,train
+4387,Not spam,False,test
+4388,Not spam,False,dev
+4389,Not spam,False,train
+4390,Not spam,False,train
+4393,Not spam,False,dev
+4394,Spam,False,train
+4395,Not spam,False,dev
+4396,Not spam,False,dev
+4397,Not spam,False,train
+4398,Not spam,False,train
+4399,Not spam,False,train
+4400,Not spam,False,train
+4401,Not spam,False,train
+4402,Not spam,False,train
+4403,Not spam,False,train
+4404,Not spam,False,test
+4405,Not spam,False,train
+4406,Not spam,False,dev
+4407,Spam,False,dev
+4408,Not spam,False,test
+4409,Not spam,False,train
+4410,Spam,True,train
+4411,Not spam,False,train
+4412,Not spam,False,train
+4413,Not spam,False,train
+4415,Not spam,False,train
+4416,Not spam,False,dev
+4417,Not spam,False,test
+4418,Not spam,False,train
+4419,Not spam,True,train
+4420,Not spam,False,train
+4422,Not spam,False,train
+4423,Not spam,False,train
+4424,Not spam,False,train
+4425,Not spam,False,train
+4426,Not spam,False,test
+4427,Not spam,False,train
+4428,Not spam,False,train
+4429,Not spam,False,test
+4430,Not spam,False,train
+4431,Not spam,False,train
+4432,Not spam,False,train
+4433,Not spam,False,dev
+4434,Not spam,False,train
+4435,Not spam,False,test
+4436,Spam,False,train
+4438,Not spam,False,train
+4439,Not spam,False,train
+4440,Not spam,False,train
+4441,Not spam,False,train
+4442,Not spam,False,train
+4443,Not spam,False,dev
+4444,Not spam,False,train
+4445,Not spam,False,train
+4446,Not spam,False,test
+4447,Not spam,False,test
+4448,Not spam,False,train
+4449,Not spam,False,train
+4451,Not spam,False,train
+4452,Not spam,False,train
+4453,Not spam,False,dev
+4454,Not spam,False,test
+4455,Not spam,False,train
+4457,Not spam,False,train
+4458,Not spam,False,train
+4459,Not spam,False,train
+4460,Spam,True,train
+4461,Not spam,True,train
+4462,Not spam,False,test
+4463,Not spam,False,train
+4464,Not spam,False,train
+4466,Not spam,False,train
+4467,Not spam,False,train
+4469,Not spam,False,test
+4470,Not spam,False,train
+4471,Not spam,True,train
+4472,Not spam,False,train
+4473,Spam,False,train
+4474,Not spam,False,train
+4475,Spam,False,train
+4476,Not spam,False,train
+4477,Not spam,False,dev
+4478,Not spam,False,train
+4479,Not spam,False,dev
+4480,Not spam,False,test
+4481,Not spam,False,train
+4482,Not spam,False,dev
+4483,Not spam,False,test
+4484,Not spam,False,train
+4485,Not spam,False,dev
+4486,Not spam,False,dev
+4487,Not spam,False,train
+4488,Not spam,True,test
+4489,Not spam,False,train
+4490,Not spam,False,train
+4491,Not spam,False,train
+4492,Not spam,False,train
+4493,Not spam,False,test
+4494,Not spam,False,dev
+4495,Not spam,False,train
+4496,Not spam,False,train
+4497,Not spam,False,train
+4499,Spam,True,train
+4500,Spam,False,train
+4501,Not spam,False,train
+4502,Not spam,False,train
+4503,Not spam,False,dev
+4505,Not spam,False,train
+4506,Spam,False,train
+4507,Not spam,False,train
+4508,Not spam,False,train
+4509,Not spam,False,dev
+4510,Not spam,False,train
+4511,Not spam,False,train
+4512,Not spam,False,train
+4513,Not spam,False,train
+4514,Spam,True,train
+4515,Not spam,False,dev
+4516,Not spam,False,train
+4518,Not spam,False,train
+4519,Not spam,False,train
+4520,Not spam,False,train
+4521,Not spam,False,dev
+4522,Not spam,False,dev
+4523,Not spam,False,train
+4524,Not spam,False,train
+4525,Not spam,False,train
+4526,Not spam,False,train
+4527,Spam,False,train
+4528,Not spam,False,dev
+4529,Not spam,False,test
+4530,Not spam,False,train
+4531,Not spam,False,train
+4532,Not spam,False,train
+4533,Not spam,False,train
+4534,Spam,False,test
+4535,Not spam,False,dev
+4536,Not spam,False,train
+4538,Not spam,False,train
+4539,Not spam,False,dev
+4540,Not spam,False,train
+4541,Not spam,False,dev
+4542,Not spam,False,train
+4543,Spam,False,test
+4544,Not spam,False,train
+4545,Not spam,False,train
+4546,Not spam,False,test
+4547,Not spam,False,dev
+4548,Not spam,False,dev
+4550,Not spam,False,dev
+4551,Not spam,False,dev
+4552,Not spam,False,dev
+4553,Not spam,False,train
+4554,Not spam,False,train
+4555,Not spam,False,train
+4557,Not spam,False,train
+4558,Not spam,False,test
+4559,Not spam,False,train
+4560,Not spam,False,dev
+4561,Not spam,False,train
+4562,Not spam,False,dev
+4563,Not spam,False,test
+4564,Not spam,False,train
+4565,Not spam,False,train
+4567,Not spam,False,dev
+4568,Not spam,False,train
+4569,Not spam,False,train
+4570,Not spam,False,train
+4571,Spam,False,train
+4572,Not spam,False,train
+4573,Not spam,False,train
+4574,Spam,True,dev
+4575,Not spam,False,dev
+4576,Not spam,False,train
+4577,Spam,True,train
+4578,Spam,True,train
+4580,Not spam,False,train
+4581,Not spam,False,dev
+4582,Not spam,False,train
+4583,Not spam,False,train
+4585,Not spam,False,train
+4586,Spam,False,train
+4588,Not spam,False,train
+4589,Not spam,False,train
+4590,Not spam,False,train
+4593,Not spam,False,train
+4594,Not spam,False,test
+4595,Not spam,False,train
+4596,Not spam,False,train
+4597,Not spam,False,test
+4598,Not spam,False,dev
+4599,Not spam,False,train
+4600,Not spam,False,train
+4601,Not spam,False,dev
+4602,Spam,False,train
+4603,Not spam,False,train
+4604,Not spam,False,train
+4605,Not spam,False,train
+4606,Not spam,False,train
+4607,Not spam,False,train
+4608,Not spam,False,train
+4609,Not spam,False,train
+4610,Not spam,False,train
+4611,Not spam,False,test
+4612,Not spam,False,train
+4613,Not spam,False,dev
+4614,Not spam,False,dev
+4615,Not spam,False,train
+4616,Spam,True,train
+4617,Not spam,False,train
+4618,Not spam,False,train
+4619,Not spam,False,train
+4621,Not spam,False,train
+4622,Not spam,False,train
+4623,Not spam,False,test
+4624,Not spam,False,dev
+4625,Not spam,False,test
+4626,Not spam,False,train
+4627,Not spam,False,train
+4629,Spam,False,train
+4630,Not spam,False,train
+4631,Not spam,False,train
+4632,Not spam,False,train
+4634,Not spam,False,train
+4635,Not spam,False,test
+4636,Not spam,False,train
+4637,Not spam,False,train
+4639,Not spam,False,dev
+4640,Not spam,False,train
+4641,Not spam,False,dev
+4642,Not spam,False,test
+4643,Spam,False,train
+4644,Not spam,False,train
+4646,Not spam,False,test
+4647,Spam,True,test
+4648,Not spam,False,train
+4649,Not spam,False,train
+4651,Not spam,False,train
+4652,Spam,False,dev
+4653,Not spam,False,train
+4654,Not spam,False,dev
+4656,Not spam,False,train
+4657,Not spam,False,train
+4658,Spam,False,test
+4659,Not spam,False,test
+4661,Not spam,False,train
+4662,Not spam,False,train
+4663,Not spam,False,train
+4664,Not spam,False,dev
+4665,Not spam,False,test
+4666,Not spam,False,train
+4667,Not spam,False,train
+4668,Not spam,False,train
+4669,Not spam,False,dev
+4670,Not spam,False,train
+4671,Not spam,False,dev
+4672,Not spam,False,train
+4673,Spam,False,test
+4674,Not spam,False,dev
+4675,Not spam,False,dev
+4676,Spam,False,train
+4677,Not spam,False,train
+4678,Not spam,False,train
+4679,Not spam,False,train
+4680,Not spam,False,dev
+4681,Not spam,False,train
+4682,Not spam,False,train
+4683,Not spam,False,train
+4684,Not spam,False,train
+4686,Not spam,False,dev
+4687,Not spam,False,test
+4688,Not spam,False,dev
+4689,Not spam,False,train
+4690,Not spam,False,train
+4691,Not spam,False,train
+4692,Not spam,False,test
+4693,Not spam,False,test
+4695,Not spam,False,dev
+4696,Spam,True,dev
+4697,Not spam,False,train
+4698,Not spam,False,train
+4700,Not spam,False,train
+4702,Not spam,False,train
+4703,Not spam,False,train
+4704,Not spam,False,train
+4705,Not spam,False,train
+4706,Not spam,False,dev
+4707,Not spam,False,train
+4708,Not spam,False,train
+4709,Not spam,False,train
+4710,Not spam,False,dev
+4711,Not spam,False,train
+4712,Not spam,False,train
+4713,Not spam,False,dev
+4714,Not spam,False,dev
+4715,Not spam,False,train
+4716,Not spam,False,dev
+4717,Not spam,False,train
+4718,Not spam,False,train
+4720,Not spam,False,dev
+4721,Not spam,False,train
+4722,Not spam,False,train
+4723,Not spam,False,dev
+4724,Not spam,False,train
+4725,Spam,True,test
+4726,Not spam,False,dev
+4727,Not spam,False,train
+4728,Spam,True,train
+4729,Not spam,True,train
+4730,Not spam,False,train
+4731,Not spam,False,test
+4732,Not spam,False,train
+4733,Not spam,False,train
+4734,Not spam,False,train
+4736,Not spam,False,train
+4737,Not spam,False,train
+4738,Not spam,False,train
+4739,Not spam,False,train
+4740,Not spam,False,train
+4741,Not spam,False,train
+4742,Not spam,False,train
+4745,Not spam,False,train
+4747,Not spam,False,train
+4748,Not spam,False,train
+4749,Not spam,False,dev
+4750,Not spam,False,train
+4751,Not spam,False,dev
+4752,Spam,False,test
+4753,Not spam,False,train
+4754,Spam,False,train
+4755,Not spam,False,train
+4756,Not spam,False,train
+4757,Not spam,False,train
+4758,Not spam,False,test
+4760,Spam,False,train
+4761,Not spam,False,train
+4762,Not spam,False,train
+4763,Not spam,False,train
+4764,Not spam,False,train
+4765,Not spam,False,train
+4766,Not spam,False,train
+4767,Not spam,False,train
+4768,Spam,False,dev
+4769,Not spam,False,train
+4770,Not spam,False,dev
+4771,Not spam,False,train
+4772,Not spam,False,train
+4774,Not spam,False,train
+4775,Not spam,False,train
+4777,Not spam,False,train
+4778,Not spam,False,train
+4779,Not spam,False,test
+4780,Not spam,False,train
+4781,Not spam,False,train
+4782,Not spam,False,train
+4783,Not spam,False,train
+4784,Not spam,False,train
+4785,Not spam,False,train
+4786,Spam,False,train
+4787,Not spam,False,dev
+4788,Not spam,False,train
+4789,Not spam,False,test
+4790,Not spam,False,train
+4791,Not spam,False,test
+4792,Not spam,False,train
+4793,Not spam,False,train
+4794,Not spam,False,train
+4795,Not spam,False,train
+4796,Not spam,False,train
+4797,Spam,True,train
+4798,Spam,False,test
+4799,Not spam,False,test
+4800,Not spam,False,train
+4801,Not spam,False,train
+4802,Not spam,False,test
+4804,Not spam,False,test
+4805,Not spam,False,train
+4806,Not spam,False,train
+4807,Not spam,False,train
+4808,Spam,False,train
+4809,Not spam,False,train
+4810,Not spam,False,test
+4811,Not spam,False,train
+4812,Not spam,False,test
+4813,Not spam,False,test
+4814,Not spam,False,train
+4816,Not spam,False,train
+4817,Not spam,False,train
+4818,Not spam,False,test
+4819,Not spam,False,dev
+4820,Not spam,False,dev
+4821,Spam,False,train
+4822,Not spam,False,train
+4823,Spam,True,train
+4824,Not spam,False,test
+4825,Not spam,False,train
+4826,Not spam,False,train
+4827,Not spam,False,dev
+4828,Not spam,False,train
+4829,Not spam,False,train
+4830,Not spam,False,train
+4831,Not spam,False,train
+4832,Not spam,False,train
+4833,Not spam,False,train
+4834,Spam,False,train
+4835,Not spam,False,dev
+4836,Not spam,False,train
+4837,Not spam,False,dev
+4838,Not spam,False,test
+4839,Not spam,False,train
+4840,Not spam,False,train
+4841,Spam,False,test
+4842,Not spam,False,test
+4843,Not spam,False,dev
+4844,Not spam,False,train
+4846,Not spam,False,dev
+4847,Not spam,False,train
+4849,Not spam,True,train
+4850,Not spam,False,train
+4851,Not spam,False,train
+4852,Not spam,False,train
+4853,Not spam,False,train
+4854,Not spam,False,dev
+4855,Not spam,False,train
+4856,Not spam,False,train
+4857,Not spam,False,train
+4858,Not spam,False,train
+4860,Not spam,False,train
+4861,Not spam,False,train
+4862,Not spam,False,dev
+4863,Spam,True,train
+4865,Not spam,False,dev
+4866,Not spam,False,train
+4867,Not spam,False,test
+4868,Not spam,False,train
+4870,Not spam,False,train
+4871,Not spam,False,train
+4872,Not spam,False,test
+4873,Not spam,False,test
+4874,Not spam,False,train
+4875,Not spam,False,train
+4876,Not spam,False,train
+4877,Spam,False,dev
+4878,Not spam,False,dev
+4880,Not spam,False,train
+4881,Not spam,False,train
+4882,Not spam,False,train
+4883,Not spam,False,train
+4885,Not spam,False,test
+4886,Not spam,False,train
+4887,Not spam,False,train
+4889,Not spam,False,train
+4891,Not spam,False,train
+4892,Not spam,False,train
+4893,Not spam,False,test
+4894,Not spam,False,train
+4896,Spam,False,train
+4897,Not spam,False,test
+4899,Not spam,False,train
+4900,Not spam,False,train
+4901,Spam,True,test
+4902,Not spam,False,train
+4903,Spam,True,dev
+4904,Not spam,False,train
+4905,Not spam,False,dev
+4906,Spam,True,train
+4907,Not spam,False,train
+4908,Not spam,False,train
+4909,Not spam,False,train
+4910,Not spam,False,train
+4911,Not spam,False,train
+4912,Not spam,False,dev
+4913,Not spam,False,train
+4914,Spam,False,train
+4915,Not spam,False,test
+4916,Not spam,False,test
+4917,Not spam,False,dev
+4919,Not spam,False,train
+4920,Not spam,False,train
+4921,Not spam,False,dev
+4922,Not spam,False,train
+4924,Not spam,False,test
+4925,Not spam,False,train
+4926,Not spam,False,dev
+4927,Not spam,False,train
+4928,Not spam,False,train
+4929,Not spam,False,dev
+4931,Spam,False,train
+4932,Not spam,False,train
+4933,Not spam,False,train
+4934,Not spam,True,train
+4935,Not spam,False,train
+4936,Not spam,False,train
+4937,Not spam,False,train
+4938,Not spam,False,train
+4939,Not spam,False,train
+4940,Not spam,False,train
+4941,Not spam,False,test
+4942,Not spam,False,test
+4943,Not spam,False,train
+4944,Not spam,False,train
+4945,Not spam,False,train
+4946,Not spam,False,train
+4947,Not spam,False,train
+4949,Spam,True,train
+4950,Not spam,False,dev
+4951,Not spam,False,test
+4952,Not spam,False,train
+4953,Spam,True,dev
+4954,Not spam,False,dev
+4955,Not spam,False,dev
+4956,Not spam,False,train
+4957,Not spam,False,train
+4958,Not spam,False,test
+4959,Not spam,False,train
+4960,Not spam,False,train
+4961,Not spam,False,train
+4964,Not spam,False,train
+4965,Spam,False,train
+4966,Not spam,False,dev
+4967,Spam,True,train
+4968,Spam,False,train
+4969,Not spam,False,test
+4970,Not spam,False,train
+4971,Not spam,False,test
+4972,Not spam,False,train
+4973,Not spam,False,train
+4974,Not spam,False,train
+4975,Not spam,False,train
+4976,Not spam,False,test
+4977,Not spam,False,test
+4979,Not spam,False,train
+4980,Not spam,False,train
+4981,Not spam,False,test
+4982,Not spam,False,test
+4983,Not spam,False,train
+4984,Not spam,False,train
+4985,Spam,False,train
+4986,Not spam,False,dev
+4987,Not spam,False,train
+4988,Not spam,False,train
+4989,Not spam,False,train
+4990,Not spam,False,train
+4991,Spam,False,dev
+4992,Not spam,False,train
+4993,Not spam,False,dev
+4994,Not spam,False,train
+4995,Not spam,False,train
+4996,Not spam,False,test
+4997,Not spam,False,dev
+4998,Not spam,False,dev
+4999,Not spam,False,train
+5000,Not spam,False,test
+5001,Not spam,False,test
+5002,Not spam,False,test
+5003,Not spam,False,test
+5004,Spam,False,train
+5005,Not spam,False,train
+5006,Not spam,False,train
+5007,Not spam,False,train
+5008,Not spam,False,train
+5009,Not spam,False,train
+5010,Not spam,False,train
+5011,Not spam,False,test
+5012,Spam,True,train
+5013,Not spam,False,train
+5014,Not spam,False,train
+5015,Not spam,False,train
+5016,Not spam,False,train
+5017,Not spam,False,train
+5019,Not spam,False,dev
+5020,Not spam,False,train
+5021,Not spam,False,dev
+5022,Not spam,False,train
+5023,Not spam,False,dev
+5024,Not spam,False,train
+5025,Not spam,False,train
+5026,Not spam,False,test
+5027,Spam,False,train
+5028,Spam,False,dev
+5029,Not spam,False,dev
+5030,Spam,False,train
+5032,Not spam,False,train
+5033,Not spam,False,train
+5034,Not spam,False,test
+5035,Not spam,False,train
+5036,Not spam,False,dev
+5038,Not spam,False,train
+5039,Not spam,False,train
+5040,Not spam,False,test
+5041,Spam,False,train
+5042,Not spam,False,train
+5043,Spam,True,train
+5044,Not spam,False,train
+5045,Not spam,False,dev
+5047,Not spam,False,test
+5048,Not spam,False,train
+5049,Not spam,False,train
+5051,Not spam,False,test
+5052,Not spam,False,train
+5053,Not spam,False,test
+5054,Not spam,False,test
+5056,Not spam,False,train
+5057,Not spam,False,test
+5058,Not spam,True,dev
+5059,Not spam,False,train
+5060,Spam,True,train
+5061,Not spam,False,train
+5062,Not spam,False,train
+5063,Not spam,True,train
+5064,Not spam,False,train
+5065,Not spam,False,train
+5066,Not spam,False,train
+5067,Not spam,False,train
+5068,Spam,False,train
+5069,Not spam,False,train
+5070,Not spam,False,train
+5071,Spam,False,train
+5072,Not spam,False,test
+5073,Spam,True,train
+5074,Not spam,False,dev
+5076,Spam,True,train
+5077,Not spam,False,train
+5078,Not spam,False,train
+5079,Spam,True,train
+5080,Not spam,False,train
+5081,Not spam,True,dev
+5082,Not spam,False,train
+5083,Not spam,False,train
+5084,Not spam,False,train
+5085,Not spam,False,train
+5086,Not spam,False,train
+5087,Not spam,False,train
+5088,Not spam,False,train
+5089,Not spam,False,train
+5090,Not spam,False,test
+5091,Not spam,False,train
+5092,Not spam,False,train
+5094,Not spam,False,train
+5095,Not spam,False,test
+5096,Not spam,False,train
+5097,Not spam,False,dev
+5098,Not spam,False,dev
+5099,Not spam,False,train
+5100,Spam,True,train
+5101,Not spam,False,train
+5102,Not spam,False,test
+5103,Not spam,False,train
+5104,Spam,False,dev
+5105,Not spam,False,train
+5108,Not spam,False,dev
+5109,Not spam,False,train
+5111,Not spam,False,test
+5112,Spam,False,test
+5113,Not spam,False,train
+5114,Spam,True,train
+5115,Not spam,False,train
+5116,Not spam,False,train
+5117,Spam,False,train
+5118,Not spam,False,test
+5119,Not spam,False,test
+5120,Not spam,False,train
+5121,Not spam,False,train
+5122,Spam,False,train
+5123,Not spam,False,train
+5124,Not spam,False,train
+5125,Not spam,False,dev
+5126,Not spam,False,train
+5127,Not spam,False,train
+5128,Not spam,False,train
+5129,Not spam,False,train
+5130,Not spam,False,train
+5132,Not spam,False,train
+5133,Not spam,True,train
+5134,Not spam,False,train
+5135,Not spam,False,dev
+5136,Not spam,False,train
+5137,Not spam,False,train
+5138,Not spam,False,dev
+5139,Spam,True,train
+5140,Not spam,False,train
+5141,Not spam,False,train
+5142,Not spam,False,train
+5144,Not spam,False,test
+5145,Not spam,False,train
+5146,Not spam,False,train
+5147,Not spam,False,train
+5148,Not spam,False,train
+5149,Spam,True,train
+5150,Not spam,True,train
+5151,Not spam,False,train
+5152,Not spam,False,train
+5153,Not spam,False,train
+5154,Not spam,False,train
+5155,Not spam,False,train
+5156,Not spam,False,dev
+5157,Not spam,False,train
+5158,Not spam,False,test
+5159,Not spam,False,train
+5160,Not spam,False,train
+5161,Not spam,False,dev
+5162,Not spam,False,train
+5163,Not spam,False,train
+5164,Not spam,False,test
+5165,Not spam,False,train
+5167,Not spam,False,dev
+5168,Not spam,False,train
+5169,Not spam,False,dev
+5170,Not spam,False,train
+5171,Not spam,False,test
+5172,Not spam,False,train
+5174,Not spam,False,train
+5175,Not spam,False,train
+5176,Not spam,False,dev
+5179,Not spam,False,train
+5180,Spam,True,test
+5181,Not spam,False,test
+5182,Not spam,False,train
+5183,Not spam,False,test
+5185,Not spam,False,train
+5186,Not spam,False,test
+5187,Not spam,False,dev
+5188,Not spam,False,train
+5189,Not spam,False,dev
+5191,Spam,True,train
+5192,Spam,True,train
+5194,Not spam,False,dev
+5195,Not spam,False,test
+5196,Not spam,False,train
+5197,Not spam,False,train
+5199,Not spam,False,train
+5200,Not spam,False,dev
+5201,Not spam,False,test
+5202,Spam,False,dev
+5204,Not spam,False,train
+5206,Not spam,False,train
+5207,Spam,True,test
+5209,Not spam,False,train
+5210,Not spam,False,train
+5211,Not spam,False,dev
+5212,Not spam,False,train
+5213,Not spam,False,train
+5214,Not spam,False,train
+5215,Not spam,False,train
+5219,Not spam,False,train
+5220,Not spam,False,train
+5221,Not spam,False,test
+5222,Not spam,False,train
+5223,Not spam,False,train
+5224,Not spam,False,dev
+5225,Not spam,False,train
+5226,Not spam,False,train
+5229,Not spam,False,train
+5230,Spam,False,train
+5231,Not spam,False,train
+5232,Not spam,False,train
+5233,Not spam,False,train
+5235,Not spam,False,train
+5236,Not spam,False,train
+5237,Not spam,False,train
+5239,Spam,False,train
+5240,Not spam,False,train
+5241,Not spam,False,train
+5242,Not spam,False,train
+5244,Not spam,False,dev
+5245,Not spam,False,train
+5246,Not spam,False,train
+5247,Not spam,False,train
+5248,Not spam,False,test
+5250,Not spam,False,train
+5251,Not spam,False,train
+5252,Spam,False,dev
+5253,Not spam,False,train
+5254,Not spam,False,train
+5255,Not spam,False,train
+5256,Not spam,False,train
+5257,Not spam,False,dev
+5258,Not spam,False,train
+5260,Not spam,False,train
+5261,Not spam,False,train
+5262,Not spam,False,train
+5263,Not spam,False,train
+5264,Not spam,False,train
+5265,Not spam,False,train
+5267,Not spam,False,train
+5268,Not spam,False,train
+5269,Not spam,False,train
+5270,Not spam,False,test
+5272,Not spam,False,train
+5273,Not spam,False,dev
+5274,Not spam,False,train
+5275,Not spam,False,train
+5276,Not spam,False,train
+5277,Not spam,False,train
+5278,Not spam,False,train
+5279,Not spam,False,test
+5280,Spam,True,train
+5282,Not spam,False,train
+5283,Not spam,False,test
+5284,Not spam,False,dev
+5285,Not spam,False,train
+5288,Not spam,False,train
+5289,Not spam,False,dev
+5290,Not spam,False,train
+5291,Not spam,False,train
+5292,Not spam,False,train
+5293,Not spam,False,train
+5294,Spam,False,train
+5295,Not spam,False,train
+5296,Spam,True,train
+5297,Not spam,False,train
+5298,Not spam,False,train
+5299,Not spam,False,train
+5300,Not spam,False,dev
+5301,Not spam,False,train
+5302,Not spam,False,test
+5304,Not spam,False,train
+5305,Not spam,False,dev
+5306,Not spam,False,train
+5307,Not spam,False,train
+5308,Not spam,False,train
+5309,Not spam,False,train
+5310,Not spam,False,train
+5311,Not spam,False,train
+5312,Not spam,False,train
+5313,Not spam,False,train
+5314,Not spam,False,dev
+5315,Not spam,False,train
+5318,Not spam,False,dev
+5319,Not spam,False,train
+5320,Not spam,False,train
+5321,Not spam,False,train
+5322,Not spam,False,train
+5323,Not spam,False,test
+5324,Not spam,False,test
+5325,Not spam,False,train
+5326,Not spam,False,dev
+5327,Not spam,False,train
+5328,Not spam,False,train
+5329,Not spam,False,train
+5330,Not spam,False,train
+5331,Not spam,False,train
+5332,Not spam,False,test
+5333,Not spam,False,train
+5334,Not spam,False,train
+5335,Not spam,False,train
+5336,Not spam,False,dev
+5337,Not spam,False,test
+5338,Not spam,False,train
+5339,Not spam,False,train
+5340,Not spam,False,train
+5341,Not spam,False,train
+5342,Not spam,False,train
+5343,Not spam,False,train
+5344,Spam,True,train
+5345,Not spam,False,train
+5346,Not spam,False,train
+5347,Not spam,False,train
+5349,Not spam,False,train
+5350,Not spam,False,test
+5351,Not spam,False,dev
+5352,Not spam,False,dev
+5353,Not spam,False,train
+5354,Not spam,False,train
+5355,Not spam,True,train
+5356,Not spam,False,train
+5357,Not spam,True,train
+5358,Not spam,False,train
+5360,Not spam,False,train
+5361,Not spam,False,train
+5362,Not spam,False,train
+5363,Not spam,False,train
+5364,Not spam,False,train
+5365,Not spam,False,test
+5366,Spam,False,train
+5369,Not spam,False,train
+5370,Spam,False,train
+5371,Not spam,False,dev
+5372,Spam,False,train
+5373,Not spam,False,train
+5374,Not spam,False,train
+5375,Not spam,False,train
+5378,Not spam,False,test
+5379,Spam,False,train
+5380,Spam,True,train
+5381,Not spam,False,train
+5382,Not spam,False,dev
+5383,Spam,False,dev
+5384,Not spam,False,train
+5385,Not spam,False,train
+5386,Not spam,False,dev
+5387,Not spam,False,train
+5389,Not spam,False,test
+5390,Not spam,False,train
+5392,Not spam,False,test
+5393,Not spam,False,train
+5394,Not spam,False,train
+5395,Not spam,False,dev
+5396,Not spam,False,test
+5397,Not spam,False,dev
+5398,Not spam,False,train
+5399,Not spam,False,test
+5400,Not spam,False,train
+5401,Not spam,False,train
+5402,Not spam,False,test
+5403,Not spam,False,train
+5404,Not spam,False,test
+5405,Not spam,True,train
+5406,Not spam,False,dev
+5407,Not spam,False,train
+5408,Not spam,False,test
+5409,Not spam,False,train
+5410,Not spam,False,dev
+5411,Not spam,False,train
+5412,Not spam,False,train
+5413,Not spam,False,test
+5414,Not spam,False,train
+5415,Not spam,False,train
+5416,Not spam,False,train
+5417,Not spam,False,test
+5418,Not spam,False,train
+5419,Not spam,False,train
+5420,Not spam,False,train
+5421,Not spam,False,train
+5422,Not spam,False,dev
+5423,Not spam,False,train
+5424,Not spam,False,train
+5426,Not spam,False,train
+5428,Not spam,False,train
+5429,Spam,False,train
+5430,Not spam,False,train
+5431,Not spam,False,train
+5432,Not spam,False,train
+5433,Not spam,False,train
+5434,Not spam,False,train
+5435,Not spam,False,train
+5436,Not spam,False,train
+5437,Not spam,False,test
+5438,Not spam,False,dev
+5439,Not spam,False,train
+5440,Not spam,False,train
+5441,Not spam,False,train
+5442,Not spam,False,dev
+5443,Not spam,False,train
+5444,Not spam,False,train
+5445,Spam,True,train
+5446,Not spam,False,dev
+5447,Not spam,False,test
+5448,Not spam,False,train
+5449,Not spam,False,train
+5450,Not spam,False,test
+5451,Spam,False,train
+5452,Not spam,False,train
+5453,Not spam,False,train
+5454,Not spam,False,train
+5455,Not spam,False,test
+5456,Not spam,False,train
+5457,Not spam,False,test
+5458,Spam,False,train
+5461,Not spam,False,train
+5463,Not spam,False,train
+5464,Spam,False,train
+5465,Not spam,False,train
+5466,Not spam,False,train
+5467,Not spam,False,train
+5468,Spam,False,train
+5470,Spam,True,train
+5472,Not spam,False,dev
+5474,Not spam,False,train
+5475,Not spam,False,train
+5476,Not spam,False,train
+5477,Not spam,True,train
+5478,Not spam,False,train
+5480,Not spam,False,train
+5481,Not spam,False,test
+5482,Not spam,False,train
+5483,Not spam,False,train
+5484,Spam,True,train
+5485,Not spam,False,dev
+5486,Not spam,False,train
+5487,Not spam,False,train
+5488,Not spam,False,train
+5489,Spam,False,train
+5491,Not spam,False,test
+5493,Not spam,False,train
+5494,Spam,True,train
+5495,Not spam,False,train
+5496,Not spam,False,train
+5497,Not spam,False,train
+5498,Not spam,False,dev
+5500,Not spam,False,train
+5501,Not spam,False,train
+5502,Not spam,False,dev
+5503,Spam,False,test
+5504,Not spam,False,train
+5505,Not spam,False,train
+5506,Not spam,False,train
+5507,Not spam,False,train
+5508,Not spam,False,train
+5509,Not spam,False,train
+5510,Not spam,False,train
+5511,Not spam,False,dev
+5513,Not spam,False,dev
+5514,Not spam,False,train
+5515,Not spam,False,test
+5516,Not spam,False,test
+5517,Not spam,False,train
+5518,Not spam,False,train
+5519,Not spam,False,test
+5520,Not spam,False,train
+5521,Not spam,False,dev
+5522,Not spam,False,train
+5523,Not spam,False,train
+5524,Not spam,False,train
+5525,Not spam,False,train
+5527,Not spam,False,test
+5528,Spam,False,test
+5529,Not spam,False,train
+5530,Not spam,False,train
+5531,Not spam,False,train
+5532,Not spam,False,test
+5533,Not spam,False,train
+5534,Not spam,False,train
+5535,Not spam,False,train
+5536,Not spam,False,train
+5538,Not spam,False,train
+5539,Spam,False,dev
+5540,Not spam,False,test
+5542,Spam,True,test
+5543,Not spam,False,train
+5544,Not spam,False,dev
+5545,Not spam,False,train
+5546,Not spam,False,train
+5547,Not spam,False,train
+5548,Not spam,False,train
+5549,Spam,True,train
+5550,Not spam,False,train
+5551,Not spam,False,train
+5552,Not spam,False,dev
+5553,Not spam,False,train
+5554,Not spam,False,train
+5556,Not spam,False,train
+5557,Not spam,False,test
+5558,Not spam,False,train
+5559,Not spam,False,train
+5561,Not spam,False,train
+5562,Not spam,False,train
+5563,Not spam,False,train
+5564,Not spam,False,test
+5565,Not spam,False,dev
+5566,Not spam,False,test
+5567,Not spam,False,train
+5568,Spam,True,train
+5569,Spam,True,test
+5570,Not spam,False,train
+5571,Not spam,False,train
+5572,Not spam,True,test
+5573,Not spam,False,train

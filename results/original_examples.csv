@@ -1,0 +1,7 @@
+,author,date,true label,promo word,text,Method 1: TF-IDF + LR,Method 2: MiniLM embeddings + LR,m1 correct,m2 correct
+0,Ali,2026-11-23,Not spam,True,Are you free after class? Let's study together for the NLP quiz,Not spam (0.126),Not spam (0.000),True,True
+1,Ali,2026-11-23,Spam,True,Congratulations! You have won a FREE iPhone. Reply YES now to claim your prize,Spam (1.000),Spam (0.999),True,True
+2,Osama,2026-11-23,Not spam,True,"I hope our team will win the match tonight, see you at the stadium",Not spam (0.006),Not spam (0.000),True,True
+3,Osama,2026-11-23,Spam,True,"Special offer just for you! Get 50% discount, call 0512345678 before midnight",Spam (0.772),Spam (1.000),True,True
+4,Hussain,2026-11-23,Not spam,True,"My uncle got a job offer in Riyadh, we will celebrate at home tomorrow",Not spam (0.001),Not spam (0.000),True,True
+5,Hussain,2026-11-23,Not spam,False,Please send me the lecture slides when you get home,Not spam (0.001),Not spam (0.000),True,True

@@ -1,0 +1,4 @@
+,Method 1: TF-IDF + LR,Method 1: TF-IDF + LR,Method 2: MiniLM embeddings + LR,Method 2: MiniLM embeddings + LR
+,predicted Not spam,predicted Spam,predicted Not spam,predicted Spam
+true Not spam,669,7,670,6
+true Spam,9,100,6,103

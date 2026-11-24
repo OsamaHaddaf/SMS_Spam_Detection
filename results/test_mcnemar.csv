@@ -1,0 +1,3 @@
+,only Method 1 correct,only Method 2 correct,exact p-value
+full test set,6,10,0.4545
+challenge subset,0,2,0.5000
