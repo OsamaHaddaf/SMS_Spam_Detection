@@ -22,11 +22,11 @@ representations with a classifier?
 
 ## How to run
 
-**Google Colab (main environment).** Open `SMS_Spam_Detection.ipynb` in Colab and choose
-*Runtime → Run all*. No GPU is needed. If `data/` is missing, the notebook downloads the dataset from UCI
-and verifies its checksum. The first run also downloads the MiniLM model (about 90 MB). A full run takes
-under a minute once the model is cached. Once the repository is on GitHub, it can be opened directly at
-`https://colab.research.google.com/github/<user>/<repo>/blob/main/SMS_Spam_Detection.ipynb`.
+**Google Colab (main environment).**
+[Open `SMS_Spam_Detection.ipynb` in Colab](https://colab.research.google.com/github/OsamaHaddaf/SMS_Spam_Detection/blob/main/SMS_Spam_Detection.ipynb)
+and choose *Runtime → Run all*. No GPU is needed. If `data/` is missing, the notebook downloads the dataset
+from UCI and verifies its checksum. The first run also downloads the MiniLM model (about 90 MB). A full run
+takes under a minute once the model is cached.
 
 **Local Jupyter.**
 
