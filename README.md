@@ -13,12 +13,12 @@ representations with a classifier?
 
 | Stage | Notebook section | Lead | Status |
 |---|---|---|---|
-| Setup, data, cleaning, de-duplication, split | 1–2 | Ali (data), Hussain (challenge subset) | Done (first version, 22 Nov 2026) |
-| Method 1: TF-IDF + Logistic Regression | 3 | Ali | Done: tuned on dev, final model trained (22 Nov 2026) |
-| Method 2: Sentence embeddings + Logistic Regression | 4 | Osama | Done: tuned on dev, final model trained (22 Nov 2026) |
-| Results on the test set | 5 | Hussain | Done: test set evaluated once (22 Nov 2026), errors explained, question answered |
-| Try it | 6.1–6.3 | Hussain | Done (22 Nov 2026) |
-| Original labelled examples | 6.4 | Every member wrote 2 | Done (23 Nov 2026): both models correct on all 6 |
+| Setup, data, cleaning, de-duplication, split | 1–2 | Ali (data), Hussain (challenge subset) | Done |
+| Method 1: TF-IDF + Logistic Regression | 3 | Ali | Done: tuned on dev, final model trained |
+| Method 2: Sentence embeddings + Logistic Regression | 4 | Osama | Done: tuned on dev, final model trained |
+| Results on the test set | 5 | Hussain | Done: test set evaluated once, errors explained, question answered |
+| Try it | 6.1–6.3 | Hussain | Done |
+| Original labelled examples | 6.4 | Every member wrote 2 | Done: both models correct on all 6 |
 
 ## How to run
 
@@ -120,7 +120,7 @@ few Method 2 probabilities changed by 0.0001 (floating-point noise), with no pre
 
 | Environment | Python | pandas | numpy | scikit-learn | torch | sentence-transformers |
 |---|---|---|---|---|---|---|
-| **Google Colab** (24 Nov 2026) | 3.13.18 | 2.2.3 | 2.4.6 | 1.6.1 | 2.14.1 (CPU) | 5.7.0 |
+| **Google Colab** | 3.13.18 | 2.2.3 | 2.4.6 | 1.6.1 | 2.14.1 (CPU) | 5.7.0 |
 | Local Jupyter (Windows) | 3.13.9 | 3.1.1 | 2.5.5 | 1.9.1 | 2.15.0 (CPU) | 6.3.0 |
 | Local Jupyter (Windows) | 3.13.9 | 2.3.3 | 2.2.6 | 1.6.1 | 2.15.0 (CPU) | 5.7.0 |
 
